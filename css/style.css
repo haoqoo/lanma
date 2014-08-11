@@ -4,6 +4,7 @@
 body {font-family: Arial, Helvetica, sans-serif,"宋体"; background:#fff; font-size:12px; color:#434242; margin:0px; padding:0px; letter-spacing:1px;}
 .clear { clear:both;}
 p { margin:0px; padding:0px; line-height:22px;}
+h2 { padding:0px; margin:0px; line-height:30px;}
 
 /*文字样式*/
 a:link,a:visited {color:#3fa2c7;text-decoration:none;}
@@ -11,6 +12,8 @@ a:hover,a:active {color:#ff0000;text-decoration:none;}
 
 subdiv_allinline a:link,subdiv_allinline a:visited {color:#434242;text-decoration:none;}
 subdiv_allinline a:hover,subdiv_allinline a:active {color:#3fa2c7;text-decoration:none;}
+
+
 
 
 /*头部样式*/
@@ -64,4 +67,52 @@ ul.ms_list01 li a { text-decoration: none;display: block; padding:0px 25px; heig
 
 
 /*二级页面样式*/
-.here { background:url(../images/iconhome.png) no-repeat left center; padding-left:25px; height:50px; line-height:50px;color:#3fa2c7;}
+.here { background:url(../images/icon.png) no-repeat left center; padding-left:20px; height:50px; line-height:50px;color:#3fa2c7;}
+.title { height:35px; line-height:35px; border-bottom:#cccbcb 1px solid; font-family:"微软雅黑"; font-size:14px; font-weight:bold;}
+.text { padding:20px;}
+.text_l { float:left; width:400px;}
+.text_r { float:right; width:580px; padding-left:20px;}
+.tr01 { height:50px; background:url(../images/icon_07.png) no-repeat left center; padding-left:20px; line-height:50px;}
+
+
+.div_sol {  /* text-align:center; */margin:0;  padding:0;  clear:both;}  
+.subdiv_sol{  margin:0 10px 50px 10px; padding:0; display:inline-block; _display:inline; *display:inline; zoom:1;width:220px; height:290px;}  
+.sol_pic { border:#d4d1d1 5px solid; width:210px; height:130px;}
+.sol_text { padding:10px 0; height:140px;}
+.sol_but { text-align:right; height:20px;}
+.text2 { padding:20px;}
+.text2 p { text-indent:26px; margin-bottom:10px;}
+
+
+.div_on {  /* text-align:center; */margin:0;  padding:0;  clear:both;}  
+.subdiv_on{  margin:20px; padding:0; display:inline-block; _display:inline; *display:inline; zoom:1;width:210px; height:200px;}  
+.on_pic { border:#d4d1d1 5px solid; width:200px; height:150px;}
+.on_tit { height:40px; line-height:40px; font-size:14px; font-weight:bold; font-family:"微软雅黑"; text-align:center;}
+
+.downicon { background:url(../images/downloads.gif) no-repeat left center; padding-left:25px; margin-left:10px;}
+
+.con_m { padding-top:15px;}
+.nav_left { float:left; width:145px; padding:0px; margin:0px; position:relative;}
+.nav_list { margin:0px; padding:0px;}
+ul.nav_list li ul { display: none; margin:0px; padding:0px;}
+ul.nav_list, ul.nav_list li { padding:0; list-style: none;}
+ul.nav_list li ul li,ul.nav_list li ul li a,ul.nav_list li ul li a span { float: none;}/* 消除上面样式对下级菜单的影响 */
+ul.nav_list { display: block; padding:0px;}
+ul.nav_list li {   height:42px; width:145px; }
+ul.nav_list li a { text-decoration: none;display: block; padding:0px 25px; height:42px; line-height:42px;  font-size:14px; font-family:"微软雅黑"; }
+.nav_list li a:link { color:#434242;display: block;padding:0px 25px;background:url(../images/nav_05.png) no-repeat left center;} 
+.nav_list li a:hover,.nav_list li a:active,.nav_list li a:visited { color:#ffffff; background:url(../images/nav_03.png) no-repeat left center;}  
+
+ul.sub_nav_list li ul { display: none; margin:0px; padding:0px; background:url(../images/sub_nav_03.png) repeat-y left top;}
+ul.sub_nav_list, ul.sub_nav_list li { padding:0; list-style: none;}
+ul.sub_nav_list li ul li,ul.sub_nav_list li ul li a,ul.sub_nav_list li ul li a span { float: none;}/* 消除上面样式对下级菜单的影响 */
+ul.sub_nav_list { display: block; padding:0px;}
+ul.sub_nav_list li {   height:22px; width:145px; }
+ul.sub_nav_list li a { text-decoration: none;display: block; padding:0px 25px; height:22px; line-height:22px;  font-size:12px; }
+.sub_nav_list li a:link { color:#3fa2c7 ;display: block;padding:0px 25px;} 
+.sub_nav_list li a:hover,.sub_nav_list li a:active,.sub_nav_list li a:visited { color:#3fa2c7; text-decoration:underline;}  
+
+.nav_b { background:url(../images/nav_b_08.png) no-repeat left top; width:145px; height:123px;}
+.con_r { float:right; width:855px;}
+.text3 { padding:20px 0 10px 0;}
+.text3 p { background:url(../images/icon_03.png) no-repeat left 8px; padding-left:22px; line-height:30px;}
