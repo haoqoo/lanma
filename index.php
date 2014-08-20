@@ -7,9 +7,12 @@ $keywords    = "蓝码动力,xcoolsoft,官方网站,图库管理软件,网络版
 $description = "北京蓝码动力软件科技有限公司研发的超级图库管理软件，主要用于照片管理、图片管理、图纸管理、文档管理、视频管理。可统一管理、划分权限、优化、分类、搜索、浏览。专门为需要管理大量图片、文档、视频资料的单位和个人设计。";
 include ("meta.php");
 ?>
-<link href="js/plugins/jcarousel/jcarousel.basic.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="js/plugins/jcarousel/jcarousel.basic.css">
+
 <script type="text/javascript" src="js/plugins/jcarousel/jquery.jcarousel.min.js"></script>
-<script type="text/javascript" src="js/plugins/jcarousel/jcarousel.basic.js"></script>
+<script type="text/javascript" src="js/plugins/jcarousel/jquery.jcarousel-autoscroll.min.js"></script>
+        <script type="text/javascript" src="js/plugins/jcarousel/jcarousel.basic.js"></script>
+
 
 </head>
 

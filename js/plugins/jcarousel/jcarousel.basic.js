@@ -1,6 +1,8 @@
 (function($) {
     $(function() {
-        $('.jcarousel').jcarousel();
+        $('.jcarousel').jcarouselAutoscroll('reload', {
+    interval: 1500
+});
 
         $('.jcarousel-control-prev')
             .on('jcarouselcontrol:active', function() {
