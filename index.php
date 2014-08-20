@@ -7,8 +7,9 @@ $keywords    = "蓝码动力,xcoolsoft,官方网站,图库管理软件,网络版
 $description = "北京蓝码动力软件科技有限公司研发的超级图库管理软件，主要用于照片管理、图片管理、图纸管理、文档管理、视频管理。可统一管理、划分权限、优化、分类、搜索、浏览。专门为需要管理大量图片、文档、视频资料的单位和个人设计。";
 include ("meta.php");
 ?>
-<link href="js/plugins/yixunImg/css/img.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="js/plugins/yixunImg/tab.js"></script>
+<link href="js/plugins/jcarousel/jcarousel.basic.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/plugins/jcarousel/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="js/plugins/jcarousel/jcarousel.basic.js"></script>
 
 </head>
 
@@ -19,27 +20,59 @@ require ('header.php');
 <div class="main">
   <div class="banner">
      <div class="banner_m">
-       <div class="back"><a href="#"><img src="images/prev.png" width="60" height="60" border="0" /></a></div>
-    <div class="pic">
-         <table width="100%" border="0" cellspacing="10">
-          <tr>
+     <div class="pic">
+      <div class="jcarousel-wrapper">
+                <div class="jcarousel">
+                    <ul>
+                        <li>
+                          <table width="960px"  border="0" cellspacing="10">
+          <tbody><tr>
             <td valign="top">
-            <div class="banner_title"><table><tr><td class="banner_td"><p>先试用，后购买</p></td></tr></table></div>
+            <div class="banner_title"><table><tbody><tr><td class="banner_td"><p>先试用，后购买</p></td></tr></tbody></table></div>
             <div class="banner_text"><p>您可以在线试用，也可以把软件下载到您的电脑上安装试用。在试用时遇到问题，可随时联系我们公司的工程师解答问题。试用满意后，再签订合同，付款购买。</p>
             </div>
             </td>
-            <td rowspan="2" align="right" valign="top"><img src="images/pic01.png" width="474" height="249" /></td>
+            <td rowspan="2" align="right" valign="top"><img src="images/pic01.png" width="474" height="249"></td>
           </tr>
           <tr>
-            <td valign="top"><input name="" type="button" style="background:url(images/but.png) no-repeat left center; height:38px; width:133px; color:#3fa2c7; font-size:16px; font-family:'微软雅黑'; font-style:italic; font-weight:bold; border:0px;" value="在线试用" />&nbsp;
+            <td valign="top"><input name="" type="button" style="background:url(images/but.png) no-repeat left center; height:38px; width:133px; color:#3fa2c7; font-size:16px; font-family:'微软雅黑'; font-style:italic; font-weight:bold; border:0px;" value="在线试用">&nbsp;
 &nbsp;
-<input name="" type="button" style="background:url(images/but.png) no-repeat left center; height:38px; width:133px; color:#3fa2c7; font-size:16px; font-family:'微软雅黑'; font-style:italic; font-weight:bold; border:0px;" value="下载试用" />
+<input name="" type="button" style="background:url(images/but.png) no-repeat left center; height:38px; width:133px; color:#3fa2c7; font-size:16px; font-family:'微软雅黑'; font-style:italic; font-weight:bold; border:0px;" value="下载试用">
             </td>
            </tr>
-        </table>
-       </div>
+        </tbody></table>
+                        </li>
 
-    <div class="forward"><a href="#"><img src="images/next.png" width="60" height="60" border="0" /></a></div>
+                        <li>
+                          <table width="960px" border="0" cellspacing="10">
+          <tbody><tr>
+            <td valign="top">
+            <div class="banner_title"><table><tbody><tr><td class="banner_td"><p>先试用，后购买</p></td></tr></tbody></table></div>
+            <div class="banner_text"><p>您可以在线试用，也可以把软件下载到您的电脑上安装试用。在试用时遇到问题，可随时联系我们公司的工程师解答问题。试用满意后，再签订合同，付款购买。</p>
+            </div>
+            </td>
+            <td rowspan="2" align="right" valign="top"><img src="images/pic02.png" width="474" height="249"></td>
+          </tr>
+          <tr>
+            <td valign="top"><input name="" type="button" style="background:url(images/but.png) no-repeat left center; height:38px; width:133px; color:#3fa2c7; font-size:16px; font-family:'微软雅黑'; font-style:italic; font-weight:bold; border:0px;" value="在线试用">&nbsp;
+&nbsp;
+<input name="" type="button" style="background:url(images/but.png) no-repeat left center; height:38px; width:133px; color:#3fa2c7; font-size:16px; font-family:'微软雅黑'; font-style:italic; font-weight:bold; border:0px;" value="下载试用">
+            </td>
+           </tr>
+        </tbody></table>
+                        </li>
+
+                    </ul>
+                </div>
+
+
+
+                <a href="#" class="jcarousel-control-prev"><img src="images/prev.png" width="60" height="60" border="0"></a>
+                <a href="#" class="jcarousel-control-next"><img src="images/next.png" width="60" height="60" border="0" /></a>
+
+
+            </div>
+            </div>
      </div>
   </div>
   <div class="content">
