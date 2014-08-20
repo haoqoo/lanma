@@ -1,33 +1,45 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<?php include('meta.php'); ?>
-<link href="style.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="js/jquery.js"></script>
+<?php
+$title       = "蓝码动力 xcoolsoft 官方网站";
+$keywords    = "蓝码动力,xcoolsoft,官方网站,图库管理软件,网络版,B/S架构,C/S架构,企业版";
+$description = "北京蓝码动力软件科技有限公司研发的超级图库管理软件，主要用于照片管理、图片管理、图纸管理、文档管理、视频管理。可统一管理、划分权限、优化、分类、搜索、浏览。专门为需要管理大量图片、文档、视频资料的单位和个人设计。";
+include ("meta.php");
+?>
+<link href="js/plugins/yixunImg/css/img.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/plugins/yixunImg/tab.js"></script>
+
 </head>
 
 <body>
-<?php 
-  require('header.php');
- ?>
-
-<div class="main">  
+<?php
+require ('header.php');
+?>
+<div class="main">
   <div class="banner">
      <div class="banner_m">
-      <div class="back"><a href="#"><img src="images/prev.png" width="60" height="60" border="0" /></a></div>
-	  <div class="pic">
-         <table width="100%" border="0">
+       <div class="back"><a href="#"><img src="images/prev.png" width="60" height="60" border="0" /></a></div>
+    <div class="pic">
+         <table width="100%" border="0" cellspacing="10">
           <tr>
-            <td valign="top"><img src="images/index_22.png" width="437" height="190" /></td>
-            <td rowspan="2" align="right" valign="top"><img src="images/index_19.png" width="474" height="292" /></td>
+            <td valign="top">
+            <div class="banner_title"><table><tr><td class="banner_td"><p>先试用，后购买</p></td></tr></table></div>
+            <div class="banner_text"><p>您可以在线试用，也可以把软件下载到您的电脑上安装试用。在试用时遇到问题，可随时联系我们公司的工程师解答问题。试用满意后，再签订合同，付款购买。</p>
+            </div>
+            </td>
+            <td rowspan="2" align="right" valign="top"><img src="images/pic01.png" width="474" height="249" /></td>
           </tr>
           <tr>
-            <td valign="top"><input name="" type="button" style="background:url(images/but.png) no-repeat left center; height:38px; width:133px; color:#3fa2c7; font-size:16px; font-family:'微软雅黑'; font-style:italic; font-weight:bold; border:0px;" value="在线试用" /></td>
+            <td valign="top"><input name="" type="button" style="background:url(images/but.png) no-repeat left center; height:38px; width:133px; color:#3fa2c7; font-size:16px; font-family:'微软雅黑'; font-style:italic; font-weight:bold; border:0px;" value="在线试用" />&nbsp;
+&nbsp;
+<input name="" type="button" style="background:url(images/but.png) no-repeat left center; height:38px; width:133px; color:#3fa2c7; font-size:16px; font-family:'微软雅黑'; font-style:italic; font-weight:bold; border:0px;" value="下载试用" />
+            </td>
            </tr>
         </table>
        </div>
-	  
-	  <div class="forward"><a href="#"><img src="images/next.png" width="60" height="60" border="0" /></a></div>
+
+    <div class="forward"><a href="#"><img src="images/next.png" width="60" height="60" border="0" /></a></div>
      </div>
   </div>
   <div class="content">
@@ -157,8 +169,13 @@
      </div>
   </div>
 </div>
-<?php 
-require('footer.php');
- ?>
+<?php
+require ('footer.php');
+?>
+<script type="text/javascript">
+  jQuery(document).ready(function() {
+
+    });
+</script>
 </body>
 </html>
