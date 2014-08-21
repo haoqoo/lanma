@@ -1,21 +1,23 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<?php include('meta.php'); ?>
-<title>产品</title>
+<?php
+$title       = "产品 -蓝码动力";
+$keywords    = "产品,超级图库管理软件,SuperLib,网络版,蓝码动力";
+$description = "超级图库管理软件产品介绍，网络版及单机版。";
+include ('meta.php');?>
 <link href="css/style.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
-<?php 
-  require('header.php');
- ?>
+<?php
+require ('header.php');
+?>
+<div class="subbanner"><img src="images/banner_pro.png" width="1400" height="225" /></div>
 
-<div class="subbanner"></div>
 
-
-<div class="main">  
-  <div class="content">    
+<div class="main">
+  <div class="content">
     <div class="con_m">
       <div class="here">首页 >> 产品</div>
       <div class="title">超级图库管理软件</div>
@@ -30,8 +32,8 @@
     </div>
   </div>
 </div>
-<?php 
-require('footer.php');
- ?>
+<?php
+require ('footer.php');
+?>
 </body>
 </html>
