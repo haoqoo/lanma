@@ -40,9 +40,10 @@
                   <td rowspan="2"  valign="top"><img src="images/pic01.png"></td>
                 </tr>
                 <tr>
-                  <td valign="top" width="620px"><input name="" type="button" style="background:url(images/but.png) no-repeat left center; height:38px; width:133px; color:#3fa2c7; font-size:16px; font-family:'微软雅黑'; font-style:italic; font-weight:bold; border:0px;" value="在线试用">&nbsp;
+                  <td valign="top" width="620px"><a class="btn" href="#download">在线试用</a>
                     &nbsp;
-                    <input name="" type="button" style="background:url(images/but.png) no-repeat left center; height:38px; width:133px; color:#3fa2c7; font-size:16px; font-family:'微软雅黑'; font-style:italic; font-weight:bold; border:0px;" value="下载试用">
+                    <a class="btn" href="#download">下载试用</a>
+                  
                   </td>
                 </tr>
               </tbody></table>
