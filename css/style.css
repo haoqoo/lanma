@@ -29,7 +29,7 @@ a:hover,a:active {color:#ff0000;text-decoration:none;}
 /*头部样式*/
 .top { width:1160px; margin:0 auto; padding:0px; height:90px; position:relative;}
 .logo { float:left; margin-top:29px; height:42px; width:161px;}
-.qlink { float:right; height:30px; line-height:30px; background:url(../images/index_03.png) no-repeat left center; padding-left:20px;}
+.qlink { float:right; height:30px; line-height:30px;/* background:url(../images/index_03.png) no-repeat left center;*/ padding-left:20px;}
 .ms { float:right; height:50px; width:400px; position:absolute; top:40px; right:0px; line-height:50px;}
 .nav { float:left; height:50px; width:190px; line-height:50px; font-family:"微软雅黑"; font-size:14px; }
 .search { float:right; width:182px; height:27px; margin-top:10px; }
@@ -46,7 +46,7 @@ ul.ms_list01 { display: block; padding:0px;}
 ul.ms_list01 li {   height:41px; }
 ul.ms_list01 li a { text-decoration: none;display: block; padding:0px 25px; height:41px; line-height:41px; font-family:"微软雅黑"; font-size:14px; }
 .ms_list01 li a:link { color:#434242;display: block;padding:0px 25px;} 
-.ms_list01 li a:hover,.ms_list01 li a:active,.ms_list01 li a:visited { color:#3fa2c7;}  
+.ms_list01 li a:hover/*,.ms_list01 li a:active,.ms_list01 li a:visited */{ color:#3fa2c7;}  
 
 /*首页内容样式*/
 .main2 { width:100%; margin:0; padding:0px;}
@@ -93,7 +93,7 @@ ul.ms_list01 li a { text-decoration: none;display: block; padding:0px 25px; heig
 .div_sol {  /* text-align:center; */margin:0;  padding:0;  clear:both;}  
 .subdiv_sol{  margin:0 10px 50px 10px; padding:0; display:inline-block; _display:inline; *display:inline; zoom:1;width:220px; height:290px;}  
 .sol_pic { border:#d4d1d1 5px solid; width:210px; height:130px;}
-.sol_text { padding:10px 0; height:140px;}
+.sol_text { /*padding:10px 0;*/ height:140px;}
 .sol_but { text-align:right; height:20px;}
 .text2 { padding:20px;}
 .text2 p { text-indent:26px; margin-bottom:10px;}
@@ -115,8 +115,8 @@ ul.nav_list li ul li,ul.nav_list li ul li a,ul.nav_list li ul li a span { float:
 ul.nav_list { display: block; padding:0px;}
 ul.nav_list li {   height:42px; width:145px; }
 ul.nav_list li a { text-decoration: none;display: block; padding:0px 25px; height:42px; line-height:42px;  font-size:14px; font-family:"微软雅黑"; }
-.nav_list li a:link { color:#434242;display: block;padding:0px 25px;background:url(../images/nav_05.png) no-repeat left center;} 
-.nav_list li a:hover,.nav_list li a:active,.nav_list li a:visited { color:#ffffff; background:url(../images/nav_03.png) no-repeat left center;}  
+.nav_list li a.active { color:#434242;display: block;padding:0px 25px;background:url(../images/nav_03.png) no-repeat left center;} 
+
 
 ul.sub_nav_list li ul { display: none; margin:0px; padding:0px; background:url(../images/sub_nav_03.png) repeat-y left top;}
 ul.sub_nav_list, ul.sub_nav_list li { padding:0; list-style: none;}
@@ -129,8 +129,8 @@ ul.sub_nav_list li a { text-decoration: none;display: block; padding:0px 25px; h
 
 .nav_b { background:url(../images/nav_b_08.png) no-repeat left top; width:145px; height:123px;}
 .con_r { float:right; width:855px;}
-.text3 { padding:20px 0 10px 0;}
-.text3 p { background:url(../images/icon_03.png) no-repeat left 8px; padding-left:22px; line-height:30px;}
+.text3 { padding:10px 0 10px 0;}
+.text3 p { /*background:url(../images/icon_03.png) no-repeat left 8px; */padding-left:22px; line-height:30px;TEXT-INDENT: 2em;}
 
 .video_nav { height:40px; border-left:#e5e5e5 1px solid; border-top:#e5e5e5 1px solid; padding:0px;}
 .vtd01 { background:#ffffff; border-bottom:#ffffff 1px solid; border-right:#e5e5e5 1px solid; height:39px; line-height:39px;font-size:14px; font-family:"微软雅黑"; text-align:center;}
@@ -161,3 +161,19 @@ ul.suc_list li a { text-decoration: none;display: block; padding:0px 20px 0px 40
 .text4 p { text-indent:26px; margin-bottom:10px;}
 
 .email { background:url(../images/email.gif) no-repeat left center; padding-left:20px;}
+.image_name{text-align: center;
+font-weight: bold;}
+div.content table {
+width: 90%;
+font-size: 12px;
+text-align: left;
+border: 1px solid;
+border-collapse: collapse;
+}
+div.content table caption {
+text-align: left;
+font-weight: bold;
+}
+div.content th, div.content td {
+border: 1px solid;
+}

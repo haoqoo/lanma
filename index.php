@@ -86,11 +86,11 @@
         <tr>
           <td height="100"><p>SuperLib系列</p>
             <p>超级图库管理软件</p>
-            <p> 网络版(B/S和C/S架构)            </p>
+            <p> 网络版(B/S和C/S架构)</p>
             <p>单机版</p></td>
           </tr>
           <tr>
-            <td align="right"><input name="" type="button" style="background:#5db0d0; height:20px; width:55px; color:#ffffff; font-size:12px;border:0px;" value="更多>>" /></td>
+            <td align="right"><a href="products.php"><input name="" type="button" style="background:#5db0d0; height:20px; width:55px; color:#ffffff; font-size:12px;border:0px;" value="更多>>" /></a></td>
           </tr>
         </table>
       </div>
@@ -116,7 +116,7 @@
             <p>&nbsp;</p></td>
           </tr>
           <tr>
-            <td align="right"><input name="" type="button" style="background:#5db0d0; height:20px; width:55px; color:#ffffff; font-size:12px;border:0px;" value="更多>>" /></td>
+            <td align="right"><a href="solutions.php"><input name="" type="button" style="background:#5db0d0; height:20px; width:55px; color:#ffffff; font-size:12px;border:0px;" value="更多>>" /></a></td>
           </tr>
         </table>
       </div>
@@ -142,7 +142,7 @@
             <p>上海市七宝中学</p></td>
           </tr>
           <tr>
-            <td align="right"><input name="" type="button" style="background:#5db0d0; height:20px; width:55px; color:#ffffff; font-size:12px;border:0px;" value="更多>>" /></td>
+            <td align="right"><a href="success_stories.php"><input name="" type="button" style="background:#5db0d0; height:20px; width:55px; color:#ffffff; font-size:12px;border:0px;" value="更多>>" /></a></td>
           </tr>
         </table>
       </div>

@@ -1,0 +1,211 @@
+Searching 352 files for "<img src="images/banner_sup.png" width="1400" height="225">"
+
+0 matches across 0 files
+
+
+FSearching 352 files for "width="1400" height="225""
+
+/Users/qintao/Sites/lanma/about.html:
+   36  </div>
+   37  
+   38: <div class="subbanner"><img src="images/banner_ab.png" width="1400" height="225" /></div>
+   39  
+   40  
+
+/Users/qintao/Sites/lanma/about.php:
+   15    ?>
+   16  
+   17: <div class="subbanner"><img src="images/banner_ab.png" width="1400" height="225" /></div>
+   18  
+   19  
+
+/Users/qintao/Sites/lanma/case.html:
+   36  </div>
+   37  
+   38: <div class="subbanner"><img src="images/banner_case.png" width="1400" height="225" /></div>
+   39  
+   40  <div class="main">  
+
+/Users/qintao/Sites/lanma/contact.html:
+   36  </div>
+   37  
+   38: <div class="subbanner"><img src="images/banner_ab.png" width="1400" height="225" /></div>
+   39  
+   40  <div class="main">  
+
+/Users/qintao/Sites/lanma/contact.php:
+   14    require ('header.php');
+   15    ?>
+   16: <div class="subbanner"><img src="images/banner_ab.png" width="1400" height="225" /></div>
+   17  <div class="main">  
+   18    <div class="content"> 
+
+/Users/qintao/Sites/lanma/demo_video.html:
+   36  </div>
+   37  
+   38: <div class="subbanner"><img src="images/banner_pro.png" width="1400" height="225" /></div>
+   39  
+   40  <div class="main">  
+
+/Users/qintao/Sites/lanma/demo_video2.html:
+   36  </div>
+   37  
+   38: <div class="subbanner"><img src="images/banner_pro.png" width="1400" height="225" /></div>
+   39  
+   40  <div class="main">  
+
+/Users/qintao/Sites/lanma/documents.html:
+   36  </div>
+   37  
+   38: <div class="subbanner"><img src="images/banner_doc.png" width="1400" height="225" /></div>
+   39  
+   40  <div class="main">  
+
+/Users/qintao/Sites/lanma/documents.php:
+   38      </div>
+   39  </div>
+   40: <div class="subbanner"><img src="images/banner_doc.png" width="1400" height="225" /></div>
+   41  <div class="main">  
+   42    <div class="content"> 
+
+/Users/qintao/Sites/lanma/downloads.html:
+   36  </div>
+   37  
+   38: <div class="subbanner"><img src="images/banner_dow.png" width="1400" height="225" /></div>
+   39  
+   40  <div class="main">  
+
+/Users/qintao/Sites/lanma/downloads.php:
+    8  <body>
+    9  	<?php include('header.php'); ?>
+   10: 	<div class="subbanner"><img src="images/banner_dow.png" width="1400" height="225" /></div>
+   11  	<div class="main">  
+   12  		<div class="content"> 
+
+/Users/qintao/Sites/lanma/faq.html:
+   36  </div>
+   37  
+   38: <div class="subbanner"><img src="images/banner_pro.png" width="1400" height="225" /></div>
+   39  
+   40  <div class="main">  
+
+/Users/qintao/Sites/lanma/online.html:
+   38  </div>
+   39  
+   40: <div class="subbanner"><img src="images/banner_on.png" width="1400" height="225" /></div>
+   41  
+   42  <div class="main">  
+
+/Users/qintao/Sites/lanma/online.php:
+    8  <body>
+    9  <?php include('header.php'); ?>
+   10: <div class="subbanner"><img src="images/banner_on.png" width="1400" height="225" /></div>
+   11  <div class="main">  
+   12    <div class="content"> 
+
+/Users/qintao/Sites/lanma/products.html:
+   36  </div>
+   37  
+   38: <div class="subbanner"><img src="images/banner_pro.png" width="1400" height="225" /></div>
+   39  
+   40  <div class="main">  
+
+/Users/qintao/Sites/lanma/products.php:
+   13  require ('header.php');
+   14  ?>
+   15: <div class="subbanner"><img src="images/banner_pro.png" width="1400" height="225" /></div>
+   16  
+   17  
+
+/Users/qintao/Sites/lanma/purchase.html:
+   36  </div>
+   37  
+   38: <div class="subbanner"><img src="images/banner_pur.png" width="1400" height="225" /></div>
+   39  
+   40  <div class="main">  
+
+/Users/qintao/Sites/lanma/purchase.php:
+   10  <body>
+   11  <?php include 'header.php'; ?>
+   12: <div class="subbanner"><img src="images/banner_pur.png" width="1400" height="225" /></div>
+   13  <div class="main">  
+   14    <div class="content"> 
+
+/Users/qintao/Sites/lanma/requirement.html:
+   36  </div>
+   37  
+   38: <div class="subbanner"><img src="images/banner_pro.png" width="1400" height="225" /></div>
+   39  
+   40  <div class="main">  
+
+/Users/qintao/Sites/lanma/solutions.html:
+   36  </div>
+   37  
+   38: <div class="subbanner"><img src="images/banner_sol.png" width="1400" height="225" /></div>
+   39  
+   40  <div class="main">  
+
+/Users/qintao/Sites/lanma/solutions.php:
+   13    require('header.php');
+   14   ?>
+   15: <div class="subbanner"><img src="images/banner_sol.png" width="1400" height="225" /></div>
+   16  <div class="main">  
+   17    <div class="content"> 
+
+/Users/qintao/Sites/lanma/solutions_det.html:
+   36  </div>
+   37  
+   38: <div class="subbanner"><img src="images/banner_sol.png" width="1400" height="225" /></div>
+   39  
+   40  <div class="main">  
+
+/Users/qintao/Sites/lanma/success_stories.php:
+   13    require('header.php');
+   14   ?>
+   15: <div class="subbanner"><img src="images/banner_case.png" width="1400" height="225" /></div>
+   16  <div class="main">  
+   17    <div class="content">    
+
+/Users/qintao/Sites/lanma/superlib_network.php:
+   14    ?>
+   15  
+   16: <div class="subbanner"><img src="images/banner_pro.png" width="1400" height="225" /></div>
+   17  
+   18  <div class="main">  
+
+/Users/qintao/Sites/lanma/superlib_network_browse.html:
+   36  </div>
+   37  
+   38: <div class="subbanner"><img src="images/banner_pro.png" width="1400" height="225" /></div>
+   39  
+   40  <div class="main">  
+
+/Users/qintao/Sites/lanma/superlib_network_features.php:
+   12    <?php include 'header.php'; ?>
+   13  
+   14:   <div class="subbanner"><img src="images/banner_pro.png" width="1400" height="225" /></div>
+   15  
+   16    <div class="main">  
+
+/Users/qintao/Sites/lanma/superlib_network_system_requirement.php:
+   14    ?>
+   15  
+   16:   <div class="subbanner"><img src="images/banner_pro.png" width="1400" height="225" /></div>
+   17  
+   18    <div class="main">  
+
+/Users/qintao/Sites/lanma/support.html:
+   36  </div>
+   37  
+   38: <div class="subbanner"><img src="images/banner_sup.png" width="1400" height="225" /></div>
+   39  
+   40  <div class="main">  
+
+/Users/qintao/Sites/lanma/support.php:
+   11  <body>
+   12  <?php include 'header.php'; ?>
+   13: <div class="subbanner"><img src="images/banner_sup.png" width="1400" height="225" /></div>
+   14  <div class="main">  
+   15    <div class="content"> 
+
+29 matches across 29 files

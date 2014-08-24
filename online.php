@@ -7,10 +7,7 @@
 
 <body>
 <?php include('header.php'); ?>
-
-<div class="subbanner"></div>
-
-
+<div class="subbanner"><img src="images/banner_on.png" width="1200" height="225" /></div>
 <div class="main">  
   <div class="content"> 
     <div class="here">首页 >> 在线试用</div>   
