@@ -163,17 +163,17 @@ ul.suc_list li a { text-decoration: none;display: block; padding:0px 20px 0px 40
 .email { background:url(../images/email.gif) no-repeat left center; padding-left:20px;}
 .image_name{text-align: center;
 font-weight: bold;}
-div.content table {
+div.text3 table {
 width: 90%;
 font-size: 12px;
 text-align: left;
 border: 1px solid;
 border-collapse: collapse;
 }
-div.content table caption {
+div.text3 table caption {
 text-align: left;
 font-weight: bold;
 }
-div.content th, div.content td {
+div.text3 th, div.text3 td {
 border: 1px solid;
 }

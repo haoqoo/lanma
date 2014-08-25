@@ -31,18 +31,17 @@
             <li>
               <table width=""  border="0" cellspacing="10">
                 <tbody><tr>
-                  <td valign="top" width="620px">
-                    <div class="banner_title"><table><tbody><tr><td class="banner_td"><p>先试用，后购买</p></td></tr></tbody></table></div>
-                    <div class="banner_text"><p>您可以在线试用，也可以把软件下载到您的电脑上安装试用。在试用时遇到问题，可随时联系我们公司的工程师解答问题。
-                    试用满意后，再签订合同，付款购买。</p>
+                  <td valign="top" width="450px">
+                    <div class="banner_title"><table><tbody><tr><td class="banner_td"><h1>图片、文档、视频管理解决方案</h1></td></tr></tbody></table></div>
+                    <div class="banner_text"><p> Superlib(超级图库管理软件)可用于管理图片、文档和视频文件，广泛应用于各行各业，包括政府部门、装饰设计、出版社、编辑部、报社、设计院、摄影、医院、电子、网站建设、研究机构、各单位党委宣传部等。</p>
                     </div>
                   </td>
                   <td rowspan="2"  valign="top"><img src="images/pic01.png"></td>
                 </tr>
                 <tr>
-                  <td valign="top" width="620px"><a class="btn" href="#download">在线试用</a>
+                  <td valign="top" width="620px"><a class="btn" href="products.php">产品介绍</a>
                     &nbsp;
-                    <a class="btn" href="#download">下载试用</a>
+                    <!-- <a class="btn" href="#download">下载试用</a> -->
                   
                   </td>
                 </tr>
@@ -52,17 +51,36 @@
             <li>
               <table width="" border="0" cellspacing="10">
                 <tbody><tr>
-                  <td valign="top" >
-                    <div class="banner_title"><table><tbody><tr><td class="banner_td"><p>先试用，后购买</p></td></tr></tbody></table></div>
-                    <div class="banner_text"><p>您可以在线试用，也可以把软件下载到您的电脑上安装试用。在试用时遇到问题，可随时联系我们公司的工程师解答问题。试用满意后，再签订合同，付款购买。</p>
+                  <td valign="top" width="450px;">
+                    <div class="banner_title"><table><tbody><tr><td class="banner_td"><h1>轻松管理企事业单位的会议和活动照片</h1></td></tr></tbody></table></div>
+                    <div class="banner_text"><p>即使每天都增加数百张新照片，也能迅速查找到几年前某个会议上某位领导的相片。</p>
                     </div>
                   </td>
                   <td rowspan="2"  valign="top"><img src="images/pic02.png" ></td>
                 </tr>
                 <tr>
-                  <td valign="top"><input name="" type="button" style="background:url(images/but.png) no-repeat left center; height:38px; width:133px; color:#3fa2c7; font-size:16px; font-family:'微软雅黑'; font-style:italic; font-weight:bold; border:0px;" value="在线试用">&nbsp;
-                    &nbsp;
-                    <input name="" type="button" style="background:url(images/but.png) no-repeat left center; height:38px; width:133px; color:#3fa2c7; font-size:16px; font-family:'微软雅黑'; font-style:italic; font-weight:bold; border:0px;" value="下载试用">
+                  <td valign="top">
+                  <a class="btn" href="success_stories.php">了解详情</a>
+                  </td>
+                </tr>
+              </tbody></table>
+            </li>
+
+            <li>
+              <table width="" border="0" cellspacing="10">
+                <tbody><tr>
+                  <td valign="top" width="450px;">
+                    <div class="banner_title"><table><tbody><tr><td class="banner_td"><h1>先试用，后购买</h1></td></tr></tbody></table></div>
+                    <div class="banner_text"><p>您可以在线试用，也可以把软件下载到您的电脑上安装试用。在试用时遇到问题，可随时联系我们公司的工程师解答问题。试用满意后，再签订合同，付款购买。</p>
+                    </div>
+                  </td>
+                  <td rowspan="2"  valign="top"><img src="images/pic03.png" ></td>
+                </tr>
+                <tr>
+                  <td valign="top">
+                  <a class="btn" href="success_stories.php">了解详情</a>
+                  &nbsp;
+                  <a class="btn" href="success_stories.php">了解详情</a>
                   </td>
                 </tr>
               </tbody></table>
