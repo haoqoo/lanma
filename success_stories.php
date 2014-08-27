@@ -140,8 +140,70 @@
                <div class="clear"></div>
               </div>
               <br>
-            </div>              
+            </div> 
 
+            <div class="srm_div">
+              <div class="srm_t">张家港市人民检察院</div>
+              <div class="srm_m srm_p">
+                <p><a href="http://www.zjgjc.gov.cn/" target="_blank">张家港市人民检察院</a>使用SuperLib软件存储大量图片。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div> 
+
+             <div class="srm_div">
+              <div class="srm_t">寿光市外国专家局</div>
+              <div class="srm_m srm_p">
+                <p>寿光市外国专家局使用SuperLib软件存储各种活动的照片。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div> 
+
+            <div class="srm_div">
+              <div class="srm_t">某文联</div>
+              <div class="srm_m srm_p">
+                <p>使用SuperLib软件存储各种活动的照片。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>  
+
+            <div class="srm_div">
+              <div class="srm_t">云南昆磨高速公路有限公司</div>
+              <div class="srm_m srm_p">
+                <p><a href="http://www.ynjtt.com/Article/ShowArticle.asp?ArticleID=482" target="_blank">云南昆磨高速公路有限公司</a>，是隶属于省交通厅的国有大型独资企业，承担着国道213线昆明至磨憨全长694公里高速（高等级）公路的融资、建设、运营管理 ，以及收费、开发和还贷任务。</p>
+                <p>使用SuperLib软件网络版，共五个分站，每个分站3个节点，各分站间用广域网实现数据同步。<a href="case_kmgs.php">查看此案例的详细介绍</a>。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>                        
+          </div>
+
+
+          <div class="suc_r_t">烟草行业</div>
+          <div class="suc_r_m">
+            <div class="srm_div">
+              <div class="srm_t">上海烟草集团北京卷烟厂</div>
+              <div class="srm_m srm_p">
+                <div class="right"><a href="http://www.sh-tobacco.com.cn/wps/portal/shyc/group_survey/group_size/sub_company_intro?informationId=16&amp;categoryType=infoCategory" target="_blank"><img src="images/customer_logo_china_tobacco.jpg" alt="上海烟草集团北京卷烟厂" border="0"></a></div>
+                <p><a href="http://www.sh-tobacco.com.cn/wps/portal/shyc/group_survey/group_size/sub_company_intro?informationId=16&amp;categoryType=infoCategory" target="_blank">上海烟草集团北京卷烟厂</a>（原北京卷烟厂）创建于1970年，2004年1月1日正式纳入原上海烟草（集团）公司管理，2009年8月北京卷烟厂更名为上海烟草集团北京卷烟厂。上海烟草集团北京卷烟厂2009年年底搬入新厂，新厂投资12亿元，占地370亩，年产能力达到50万箱，现有资产35.95亿元，在册职工953人。</p>
+                <div>使用SuperLib软件网络版。</div>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>
+
+            <div class="srm_div">
+              <div class="srm_t">龙岩烟草工业有限责任公司</div>
+              <div class="srm_m srm_p">
+                <div class="right"><a href="http://www.lycf.com.cn" target="_blank"><img src="images/customer_logo_china_tobacco.jpg" alt="龙岩烟草工业有限责任公司" border="0"></a></div>
+                <p><a href="http://www.lycf.com.cn" target="_blank">龙岩烟草工业有限责任公司</a>（以下简称龙烟），是由龙岩卷烟厂改制而成的大型国有企业。公司创办于1951年11月，历经二次搬迁、七期技改，已经成长为福建省最有影响的国有企业和中国知名的卷烟制造基地之一。截至2011年，公司拥有员工2200多人，其中大中专以上学历员工占45%，资产总值近75亿元。拥有国内一流、世界先进的卷烟生产设备，产品制造技术和工艺质量水平居国内领先；年产卷烟能力超过120万箱，年创税利超80亿元。公司主打品牌“七匹狼”，是中国驰名商标，产品销售市场遍及全国各省、市、自治区。品牌最高规格为7匹狼“大通仙”。</p>
+                <div>使用SuperLib软件网络版。</div>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>      
           </div>
         </div>
 
