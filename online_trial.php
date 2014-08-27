@@ -1,7 +1,11 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<?php include('meta.php'); ?>
+<?php
+$title = "在线试用 超级图库管理软件 蓝码动力";
+$keywords = "在线试用,超级图库管理软件,SuperLib,网络版,蓝码动力";
+$description = "我们提供学校图片管理系统、设计图片管理系统、新闻传媒图片管理系统的在线试用，还提供SuperLib图文档管理系统的以管理员身份进行的试用。"; 
+include('meta.php'); ?>
 <link href="css/style.css" rel="stylesheet" type="text/css" />
 </head>
 

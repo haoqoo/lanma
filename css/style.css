@@ -177,3 +177,45 @@ font-weight: bold;
 div.text3 th, div.text3 td {
 border: 1px solid;
 }
+
+.linkQuestion {
+line-height: 200%;
+letter-spacing: 1px;
+}
+.divAnswer {
+display: none;
+padding: 10px;
+line-height: 200%;
+letter-spacing: 1px;
+}
+
+.text2 p.a{
+	font-weight: bolder;
+}
+.text2 .links {
+margin-left: 70px;
+}
+
+a:visited, a {
+text-decoration: none;
+color: rgb(37, 138, 199);
+font-family: 微软雅黑;
+}
+.paragraph {
+padding-left:20px; 
+font-size: 12px;
+line-height: 18px;
+color: rgb(77, 69, 114);
+}
+
+div.right {
+	padding-top: 5px;
+	padding-right: 2px;
+float: left;
+}
+.srm_p p {
+text-indent: 2em;
+margin-left: 20px;
+margin-right: 20px;
+
+}

@@ -25,7 +25,7 @@
          <a href="downloads.php">下载中心</a>
        </center></li>
        <li><center>
-         <a href="online.php">在线试用</a>
+         <a href="online_trial.php">在线试用</a>
        </center></li>
        <li><center>
          <a href="purchase.php">软件购买</a>

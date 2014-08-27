@@ -33,12 +33,12 @@
         </li>
         <li><a href="superlib_network_system_requirement.php" <?php if("system_requirement"==$active) echo 'class="active"'; ?>>运行环境</a></li>
         <li><a href="#">演示录像</a></li>
-        <li><a href="#">常见问题解答</a></li>
-        <li><a href="#">成功案例</a></li>
-        <li><a href="#">解决方案</a></li>
-        <li><a href="#">专题文章</a></li>
-        <li><a href="#">软件下载</a></li>
-        <li><a href="#">软件购买</a></li>
+        <li><a href="superlib_network_faq.php"  <?php if("faq"==$active) echo 'class="active"'; ?>>常见问题解答</a></li>
+        <li><a href="success_stories.php" target="_blank">成功案例</a></li>
+        <li><a href="solutions.php" target="_blank">解决方案</a></li>
+        <li><a href="documents.php" target="_blank">专题文章</a></li>
+        <li><a href="downloads.php" target="_blank">软件下载</a></li>
+        <li><a href="purchase.php" target="_blank">软件购买</a></li>
        </ul>
-       <div class="nav_b"></div>
+       
       </div>

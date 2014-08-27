@@ -78,9 +78,9 @@
                 </tr>
                 <tr>
                   <td valign="top" width="620px">
-                  <a class="btn" href="success_stories.php">在线试用</a>
+                  <a class="btn" href="online_trial.php">在线试用</a>
                   &nbsp;
-                  <a class="btn" href="success_stories.php">下载试用</a>
+                  <a class="btn" href="downloads.php">下载试用</a>
                   </td>
                 </tr>
               </tbody></table>
@@ -186,7 +186,7 @@
           </td>
         </tr>
         <tr>
-          <td align="right"><input name="" type="button" style="background:#5db0d0; height:20px; width:55px; color:#ffffff; font-size:12px;border:0px;" value="更多>>" /></td>
+          <td align="right"><a href="news.php"><input name="" type="button" style="background:#5db0d0; height:20px; width:55px; color:#ffffff; font-size:12px;border:0px;" value="更多>>" /></a></td>
         </tr>
       </table>
     </div>
@@ -211,7 +211,7 @@
           <p>&nbsp;</p></td>
         </tr>
         <tr>
-          <td align="right"><input name="" type="button" style="background:#5db0d0; height:20px; width:55px; color:#ffffff; font-size:12px;border:0px;" value="更多>>" /></td>
+          <td align="right"><a href="emails.php"><input name="" type="button" style="background:#5db0d0; height:20px; width:55px; color:#ffffff; font-size:12px;border:0px;" value="更多>>" /></a></td>
         </tr>
       </table>
     </div>
