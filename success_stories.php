@@ -205,6 +205,30 @@
               <br>
             </div>      
           </div>
+
+          <div class="suc_r_t">学校</div>
+          <div class="suc_r_m">
+            <div class="srm_div">
+              <div class="srm_t">长沙市雨花区天华寄宿制学校</div>
+              <div class="srm_m srm_p">
+                <p><a href="http://baike.baidu.com/view/4748064.htm" target="_blank">长沙市雨花区天华寄宿制学校</a>，是雨花区洞井镇天华村与砂子塘学校于2001年联合长沙市雨花区天华寄宿制学校创办的一所全日制寄宿学校。学校占地面积71262平方米，校舍建筑面积41771平方米；现有教学班46个，学生2283人，教职员工292人，其中教学人员为152人，特级教师2人，中学高级教师2人，小学高级教师29人，大学本科学历占54%；教职员工实施全员聘任制。学校配备自然实验室3个，美术教室6个，音乐教室4个，形体教室2个，体育器材室1个，电脑教室3个，网管室1个，多功能教室1个。学校配备计算机278台，其中学生计算机138台，办公用40台，并为教师配备笔记本电脑66台。学校安装了宽带网，接通远程教育系统，整个校园实现了网络化。学校为教学楼、生活楼及教师宿舍安装了直饮水设备、并不断地对学校自来水管道、变电设备、热水供应等设备进行改造，进一步优化学校的硬件设施。</p>
+                <p>使用SuperLib软件网络版，并且加装了《蓝码学校图片管理系统》。<a href="solution_school.php">查看蓝码学校图片管理系统的详细介绍</a>。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>
+
+            <div class="srm_div">
+              <div class="srm_t">上海市七宝中学</div>
+              <div class="srm_m srm_p">
+                <div class="right"><a href="http://www.qibao.sh.cn" target="_blank"><img src="images/customer_logo_qibao.jpg" alt="上海市七宝中学" border="0"></a></div>
+                <p><a href="http://www.qibao.sh.cn" target="_blank">上海市七宝中学</a>，创建于1947年，1961年始列为上海市重点中学，1997年规划为上海市11所现代化高标准寄宿制高中之一。学校占地147亩，建筑面积6.5万平方米，总投资2亿多元人民币。校园环境优美，建筑气势恢宏，教育设施设备先进。</p>
+                <p>使用SuperLib软件网络版，并且加装了《蓝码学校图片管理系统》。<a href="solution_school.php">查看蓝码学校图片管理系统的详细介绍</a>。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>      
+          </div>
         </div>
 
         <div class="clear"></div>
