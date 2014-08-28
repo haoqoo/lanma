@@ -21,31 +21,33 @@
           <div class="sl_up"><img src="images/suc_03.png" width="199" height="49" /></div>
           <div class="sl_m">
             <ul class="suc_list">
-              <li><a href="#">电力企业</a></li>
-              <li><a href="#">政府部门</a></li>
-              <li><a href="#">烟草行业</a></li>
-              <li><a href="#">学校</a></li>
-              <li><a href="#">壁纸、软装饰行业</a></li>
-              <li><a href="#">服装设计及生产</a></li>
-              <li><a href="#">装饰设计公司</a></li>
-              <li><a href="#">标识设计</a></li>
-              <li><a href="#">出版社、编辑部、报社</a></li>
-              <li><a href="#">摄影</a></li>
-              <li><a href="#">制造业</a></li>
-              <li><a href="#">医院</a></li>
-              <li><a href="#">电子</a></li>
-              <li><a href="#">网站建设</a></li>
-              <li><a href="#">餐饮企业</a></li>
-              <li><a href="#">农业研究机构</a></li>
-              <li><a href="#">汽车行业</a></li>
-              <li><a href="#">各单位党委宣传部</a></li>
-              <li><a href="#">设计院</a></li>
-              <li><a href="#">纺织企业</a></li>
+              <li><a href="#electric_power">电力企业</a></li>
+              <li><a href="#government">政府部门</a></li>
+              <li><a href="#tobacco">烟草行业</a></li>
+              <li><a href="#school">学校</a></li>
+              <li><a href="#wall_paper">壁纸、软装饰行业</a></li>
+              <li><a href="#clothes">服装设计及生产</a></li>
+              <li><a href="#decorate">装饰设计公司</a></li>             
+              <li><a href="#book_publish">出版社、编辑部、报社</a></li>
+              <li><a href="#design_institute">设计院</a></li>
+               <li><a href="#logo_design">标识设计</a></li>
+              <li><a href="#photography">摄影</a></li>
+              <li><a href="#manufacturing">制造业</a></li>
+              <li><a href="#hospital">医院</a></li>
+              <li><a href="#electronic">电子</a></li>
+              <li><a href="#website">网站建设</a></li>
+              <li><a href="#agriculture">农业研究机构</a></li>
+              <li><a href="#catering">餐饮企业</a></li>
+               <li><a href="#textile">纺织企业</a></li>
+              <li><a href="#automobile">汽车行业</a></li>
+              <li><a href="#xuanchuanbu">各单位党委宣传部</a></li>
+              
+             
             </ul>
           </div>
         </div>
         <div class="suc_right">
-          <div class="suc_r_t">电力企业</div>
+          <div class="suc_r_t"><a name="electric_power">电力企业</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
               <div class="srm_t">江苏兴源电力建设监理有限公司</div>
@@ -68,7 +70,7 @@
             </div>
           </div>
 
-          <div class="suc_r_t">政府部门</div>
+          <div class="suc_r_t"><a name="government">政府部门</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
               <div class="srm_t">第一次全国水利普查</div>
@@ -181,7 +183,7 @@
           </div>
 
 
-          <div class="suc_r_t">烟草行业</div>
+          <div class="suc_r_t" ><a name="tobacco">烟草行业</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
               <div class="srm_t">上海烟草集团北京卷烟厂</div>
@@ -206,7 +208,7 @@
             </div>      
           </div>
 
-          <div class="suc_r_t">学校</div>
+          <div class="suc_r_t"><a name="school">学校</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
               <div class="srm_t">长沙市雨花区天华寄宿制学校</div>
@@ -231,7 +233,7 @@
           </div>
 
 
-          <div class="suc_r_t">壁纸、软装饰行业</div>
+          <div class="suc_r_t"><a name="wall_paper">壁纸、软装饰行业</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
               <div class="srm_t">ROEN柔然壁纸</div>
@@ -246,7 +248,7 @@
           </div>
 
 
-          <div class="suc_r_t">服装设计及生产</div>
+          <div class="suc_r_t"><a name="clothes">服装设计及生产</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
               <div class="srm_t">上海美特斯邦威服饰股份有限公司</div>
@@ -269,7 +271,12 @@
             <br>
           </div> 
 
-           <div class="srm_div">
+                                
+          </div>
+
+           <div class="suc_r_t"><a name="decorate">装饰设计公司</a></div>
+          <div class="suc_r_m">
+             <div class="srm_div">
             <div class="srm_t">北京中美埃德姆装饰有限公司</div>
             <div class="srm_m srm_p">
               <div class="right"><a href="http://www.adam-interiors.com" target="_blank"><img src="images/customer_logo_adams.jpg" alt="北京中美埃德姆装饰有限公司" border="0"></a></div>
@@ -290,10 +297,15 @@
               <div class="clear"></div>
             </div>
             <br>
-          </div>                      
+          </div> 
+
+                                
           </div>
 
-          <div class="suc_r_t">出版社、编辑部、报社</div>
+
+         
+
+          <div class="suc_r_t"><a name="book_publish">出版社、编辑部、报社</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
               <div class="srm_t">北京博尔乐文化发展有限公司</div>
@@ -356,7 +368,7 @@
           </div>
 
 
-          <div class="suc_r_t">设计院</div>
+          <div class="suc_r_t"><a name="design_institute">设计院</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
               <div class="srm_t">翰凯（AHS）国际建筑设计咨询有限公司</div>
@@ -404,7 +416,21 @@
             </div>             
           </div>
 
-           <div class="suc_r_t">摄影</div>
+            <div class="suc_r_t"><a name="logo_design">标识设计</a></div>
+          <div class="suc_r_m">
+            <div class="srm_div">
+              <div class="srm_t">湖南长沙会通标识</div>
+              <div class="srm_m srm_p">
+               <div class="right"><a href="http://www.witon.com.cn" target="_blank"><img src="images/customer_logo_htbs.gif" alt="湖南长沙会通标识" border="0"></a></div>
+                <p><a href="http://www.witon.com.cn" target="_blank">湖南长沙会通标识</a>成立于1994年, 注册资金200万元，是湖南省首家专业标识公司，主要从事标识规划、设计、制作。通过ISO9001-2008国际质量管理体系认证。</p>
+               <p>使用超级图库管理软件(SuperLib)网络版。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>                              
+          </div>
+
+           <div class="suc_r_t"><a name="photography">摄影</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
               <div class="srm_t">中国商业摄影网</div>
@@ -427,7 +453,7 @@
             </div>                            
           </div>
 
-           <div class="suc_r_t">制造业</div>
+           <div class="suc_r_t"><a name="manufacturing">制造业</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
               <div class="srm_t">深圳市宝安区福永镇胜技制品厂</div>
@@ -478,7 +504,7 @@
             </div>                             
           </div>
 
-           <div class="suc_r_t">医院</div>
+           <div class="suc_r_t"><a name="hospital">医院</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
               <div class="srm_t">北京协和医院</div>
@@ -501,7 +527,7 @@
             </div>                                            
           </div>
 
-          <div class="suc_r_t">电子</div>
+          <div class="suc_r_t"><a name="electronic">电子</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
               <div class="srm_t">宁波赛尔富电子有限公司</div>
@@ -524,6 +550,99 @@
               </div>
               <br>
             </div>                                            
+          </div>
+
+           <div class="suc_r_t"><a name="website">网站建设</a></div>
+          <div class="suc_r_m">
+            <div class="srm_div">
+              <div class="srm_t">北京朗晨文化艺术有限公司</div>
+              <div class="srm_m srm_p">
+                <div class="right"><a href="http://www.lungeart.com/" target="_blank"><img src="images/customer_logo_lungreat.jpg" alt="北京朗晨文化艺术有限公司" border="0"></a></div>
+                <p>公元2000年的春天，<a href="http://www.lungeart.com/" target="_blank">北京朗晨文化艺术有限公司</a>（渔人墨客设计室）成立。在这几年的发展探索中，朗晨秉持“拒绝平凡”的理念，致力于视觉传达领域，提供企业形象管理、视觉创意设计、网站建设与维护、多媒体设计制作等服务。目前已形成一套科学、完整、高效的设计运作体系，凭借高品位的设计风格、精湛的制作工艺，为不同客户提供不同风格的设计服务。</p>
+                <p>用SuperLib软件。<a href="case_lungeart.php" target="_blank">查看此案例的详细介绍</a>。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>
+
+            <div class="srm_div">
+              <div class="srm_t">湖北十堰亿脉科技有限公司</div>
+              <div class="srm_m srm_p">
+                <div class="right"><a href="http://yimai.qipeiren.com/" target="_blank"><img src="images/customer_logo_yimai.jpg" alt="湖北十堰亿脉科技有限公司" border="0"></a></div>
+                <p><a href="http://yimai.qipeiren.com/" target="_blank">湖北十堰亿脉科技有限公司</a>，位于白浪高新技术开发区，公司运营的汽配人网(www.qipeiren.com)致力于为全国东风配件商家提供完善的信息交流服务平台，同时为本地客户提供网站建设、软件、品牌设计等信息化服务。</p>
+               <p>使用SuperLib软件网络版。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>                                            
+          </div>
+
+           <div class="suc_r_t"><a name="agriculture">农业研究机构</a></div>
+          <div class="suc_r_m">
+            <div class="srm_div">
+              <div class="srm_t">Arris</div>
+              <div class="srm_m srm_p">
+                <div class="right"><a href="http://www.arris.com.au/" target="_blank"><img src="images/customer_logo_arris.jpg" alt="Arris" border="0"></a></div>
+                <p><a href="http://www.arris.com.au/" target="_blank">Arris</a> was established in 2000 by a common passion — to improve business through innovative communication.</p>
+                <p>The initial aim was to take agricultural research from the R&amp;D level through to adoption in industry, turning research and development into impacts on the ground. Over time, this grew into two areas: interpreting science to provide technical advice, and developing a range of innovative communication tools that can be used in any industry to enhance awareness and adoption.</p>
+                <p>澳大利亚的公司，使用SuperLib软件网络版。<a href="case_arris.php" target="_blank">查看此案例的详细介绍</a>。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>                                                
+          </div>
+
+           <div class="suc_r_t"><a name="catering">餐饮企业</a></div>
+          <div class="suc_r_m">
+            <div class="srm_div">
+              <div class="srm_t">鲜墙房</div>
+              <div class="srm_m srm_p">
+                <div class="right"><a href="http://www.xianqiangfang.com/" target="_blank"><img src="images/customer_logo_xqf.jpg" alt="鲜墙房" border="0"></a></div>
+                <p><a href="http://www.xianqiangfang.com/" target="_blank">鲜墙房</a>是沪上一个独特的餐饮品牌。</p>
+               <p>使用SuperLib软件单机版。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>                                                
+          </div>
+
+          <div class="suc_r_t"><a name="textile">纺织企业</a></div>
+          <div class="suc_r_m">
+            <div class="srm_div">
+              <div class="srm_t">浙江乐芙技术纺织品有限公司</div>
+              <div class="srm_m srm_p">
+                <div class="right"><a href="http://www.cnlovely.com/" target="_blank"><img src="images/customer_logo_lefu.jpg" alt="浙江乐芙技术纺织品有限公司" border="0"></a></div>
+                <p><a href="http://www.cnlovely.com/" target="_blank">浙江乐芙技术纺织品有限公司</a>由针织制衣厂、无纺布及无纺布制品厂、高科技无纺材料公司等组成，素以“产品科技含量高、生产加工精”见长。同时不断努力开拓创新，在特殊产业用纺织品后整理行业处于国内领先、部分产品处于国际领先地位。主要产品、技术都具有自主知识产权。</p>
+              <p>使用SuperLib软件网络版。<a href="case_lovely.php" target="_blank">查看此案例的详细介绍</a>。</p>              
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>                                                
+          </div>
+
+          <div class="suc_r_t"><a name="automobile">汽车行业</a></div>
+          <div class="suc_r_m">
+            <div class="srm_div">
+              <div class="srm_t">北京奔驰—戴姆勒.克莱斯勒汽车有限公司</div>
+              <div class="srm_m srm_p">
+                <div class="right"><a href="http://www.bbdc.com.cn/" target="_blank"><img src="images/customer_logo_bbdc.png" alt="北京奔驰—戴姆勒.克莱斯勒汽车有限公司" border="0"></a></div>
+                <p><a href="http://www.bbdc.com.cn/" target="_blank">北京奔驰—戴姆勒.克莱斯勒汽车有限公司</a>（简称BBDC）是北京汽车工业控股有限责任公司与戴姆勒股份公司、戴姆勒东北亚投资有限公司组建的合资企业。现已正式使用Superlib图库管理软件。<a href="case_bbdc.php" target="_blank">查看此案例的详细介绍</a>。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>                                                
+          </div>
+
+           <div class="suc_r_t"><a name="xuanchuanbu">各单位党委宣传部</a></div>
+          <div class="suc_r_m">
+            <div class="srm_div">
+              
+              <div class="srm_m srm_p">
+                <p><a href="case_dwxcb.php" target="_blank">查看更多</a></p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>                                                
           </div>
          
         </div>

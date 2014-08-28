@@ -152,7 +152,7 @@ ul.suc_list { display: block; padding:0px;}
 ul.suc_list li {   height:25px; width:199px; }
 ul.suc_list li a { text-decoration: none;display: block; padding:0px 20px 0px 40px; height:25px; line-height:25px;  font-size:12px; font-family:"微软雅黑"; }
 .suc_list li a:link { color:#666666;display: block;padding:0px 20px 0px 40px;background:url(../images/suc_11.png) no-repeat center bottom;} 
-.suc_list li a:hover,.suc_list li a:active,.suc_list li a:visited { color:#ffffff; background:url(../images/suc_05.png) no-repeat left center;}  
+.suc_list li a:hover,.suc_list li a:active,.suc_list li a:visited { color:#666666; background:url(../images/suc_05.png) no-repeat left center;}  
 .suc_right { float:right; width:785px;}
 .suc_r_t {height:35px; line-height:35px; border-bottom:#cccbcb 1px solid; font-family:"微软雅黑"; font-size:14px; font-weight:bold;}
 .suc_r_m { padding:20px 0;}
@@ -224,3 +224,4 @@ margin-left: 0px;
 font-weight: bold;
 font-size: 14px;
 }
+.suc_r_t a,.suc_r_t li a:link { color:#666666}
