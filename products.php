@@ -18,7 +18,7 @@ require ('header.php');
 <div class="main">
   <div class="content">
     <div class="con_m">
-      <div class="here">首页 >> 产品</div>
+      <div class="here"><a href="index.php">首页</a> >> 产品</div>
       <div class="title">超级图库管理软件</div>
       <div class="text">
         <div class="text_l"><img src="images/olympicbuiding.gif" /></div>

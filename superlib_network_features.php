@@ -15,7 +15,7 @@
 
   <div class="main">  
     <div class="content">    
-      <div class="here">首页 >> 产品 >> 超级图库管理软件 >> 网络版 >> 功能介绍</div>
+      <div class="here"><a href="index.php">首页</a> >> <a href="products.php">产品</a>   >> <a href="superlib_network.php">网络版</a> >> 功能介绍</div>
       <div class="con_m"> 
         <?php $active="features"; include 'superlib_network_left.php'; ?>
         <div class="con_r">
@@ -26,7 +26,7 @@
             <center><img src="images/superlibNetwork.jpg" alt=""></center>
           </div>
 
-          <div class="title">文件夹及文件</div>
+          <div class="title"><a name="folder_file">文件夹及文件</a></div>
           <div class="text3">
             <p>可建立多级虚拟文件夹，文件夹的级数和文件夹中可存放的文件数没有限制。</p>
             <p>可存放多种格式的图片，图片格式包括jpg、png、gif、tif、psd等主流图像格式。</p>
@@ -36,7 +36,7 @@
           </div>
 
           <!--浏览-->
-          <div class="title">浏览</div>
+          <div class="title"><a name="browse">浏览</a></div>
           <div class="text3">
             <ul>
               <li>目录树视图和文件列表视图</li>
@@ -79,7 +79,7 @@
           </div>
 
           <!--文件夹管理-->
-          <div class="title">文件夹管理</div>
+          <div class="title"><a name="folder_management">文件夹管理</a></div>
           <div class="text3">
             <p>可以在客户端软件中对文件夹进行创建、删除、重命名、移动、复制、导入、导出等操作。</p>
             <ul>
@@ -111,7 +111,7 @@
           </div>
 
           <!--文件管理-->
-          <div class="title">文件管理</div>
+          <div class="title"><a name="file_management">文件管理</a></div>
           <div class="text3">
             <ul>
               <li>上传文件</li>
@@ -183,7 +183,7 @@
           </div>
 
           <!--搜索-->
-          <div class="title">搜索</div>
+          <div class="title"><a name="search">搜索</a></div>
           <div class="text3">
             <p>可对图库进行搜索，包括模糊搜索和条件搜索。搜索条件包括搜索范围、名称、说明、常规属性、特有属性、自定义属性等。</p>
             <p>对图库进行搜索时，搜索结果受权限的控制，只能找到有访问权限的内容，不显示无访问权限的内容。</p>
@@ -191,21 +191,21 @@
           </div>
 
           <!--选择集-->
-          <div class="title">选择集</div>
+          <div class="title"><a name="selection_set">选择集</a></div>
           <div class="text3">
             <p>具有选择集功能，方便用户挑选和处理文件。用户将选中的文件加入到选择集中，然后将选择集中的所有文件做集中处理，例如打包下载或申请下载流程等。选择集功能与电子商务网站的购物车功能类似。</p>
             <div class="go_top"><a href="#top">^ 返回顶部</a></div>
           </div>
 
           <!--下载审批流程-->
-          <div class="title">下载审批流程</div>
+          <div class="title"><a name="">下载审批流程</a></div>
           <div class="text3">
             <p>具备下载审批流程。如果不希望某些用户具备直接下载的权限，可以让他们先挑选要下载的内容，然后提交下载申请，通过审批流程后才能下载。审批流程是可以让用户自行定义的，有哪些审批步骤、每个步骤由谁来审批，均可设置。审批完成后，要下载的内容被复制到用户的个人文件夹中，用户对个人文件夹中的文件有直接下载的权限。</p>
             <div class="go_top"><a href="#top">^ 返回顶部</a></div>
           </div>
 
           <!--搜索树-->
-          <div class="title">搜索树</div>
+          <div class="title"><a name="search_tree">搜索树</a></div>
           <div class="text3">
             <p>具有搜索树功能。搜索树是一种方便用户浏览和搜索图库内容的树状结构，搜索树的每一个节点是一个搜索条件，点击此节点后即搜索出所有符合条件的文件并显示出来。例如下图的搜索树：</p>
             <center><img src="images/superlib_network_features_024.jpg" alt="在网页浏览器中显示的搜索树"></center>
@@ -251,7 +251,7 @@
         </div>
 
         <!--重复文件识别-->
-        <div class="title">重复文件识别</div>
+        <div class="title"><a name="duplicated_file">重复文件识别</a></div>
         <div class="text3">
           <p>具有识别重复文件功能。所谓重复文件，就是文件内容完全相同的文件，即组成文件的每一个字节都相同。对于重复文件，不论文件的名称是否相同，都只占用一个文件的磁盘存储空间，增加一个重复文件，只是在图库数据库中增加了一条引用记录而已，几乎不多占用磁盘空间。这对大量搜集整理资料非常有好处。</p>
           <center><img src="images/superlib_network_features_026.jpg" alt="重复文件识别"></center>
@@ -262,7 +262,7 @@
         </div>
 
         <!--查找相似图片-->
-        <div class="title">查找相似图片</div>
+        <div class="title"><a name="similar_image">查找相似图片</a></div>
         <div class="text3">
           <p>具备查找相似图片功能。所谓相似图片，是指图片的内容相似，但是图片格式、大小、色调、旋转角度等均可能不同，还可能经过不同的裁剪。查找相似图片功能可以对用户指定的文件或文件夹进行搜索，找出所有相似度满足要求的图片，并按相似度排序显示出来，用户可进行对比、清理。</p>
           <center><img src="images/superlib_network_features_028.jpg" alt="在客户端软件中查找相似图片"></center>
@@ -274,7 +274,7 @@
         </div>
 
         <!--用户管理-->
-        <div class="title">用户管理</div>
+        <div class="title"><a name="user_management">用户管理</a></div>
         <div class="text3">
           <p>系统初始安装完毕后，系统中只有一个内置的超级管理员用户，其用户名为"Administrator"，密码为默认的"admin"。管理员用此身份登录后，可修改超级管理员密码，并建立其它用户。</p>
           <p>用户管理的操作，是通过控制台软件进行的。控制台软件也是一种客户端软件。本系统提供两种客户端软件，一种是给普通用户使用的，称为"超级图库客户端"软件；另一种是给管理员使用的，称为"超级图库控制台"软件。</p>
@@ -295,7 +295,7 @@
         </div>
 
         <!--用户组管理-->
-        <div class="title">用户组管理</div>
+        <div class="title"><a name="user_group_management">用户组管理</a></div>
         <div class="text3">
           <div class="go_top"><a href="#top">^ 返回顶部</a></div>
           <p>如果用户数量很多，建议将用户划分为多个用户组，以便更方便地设置权限。也可以把用户组看作"角色"。</p>
@@ -315,7 +315,7 @@
         </div>
 
         <!--管理用户组和用户的关系-->
-        <div class="title">管理用户组和用户的关系</div>
+        <div class="title"><a name="user_group_relation">管理用户组和用户的关系</a></div>
         <div class="text3">
           <ul>
             <li>基本概念</li>
@@ -422,7 +422,7 @@
   </div>
 
   <!--权限管理-->
-  <div class="title">权限管理</div>
+  <div class="title"><a name="permission_management">权限管理</a></div>
   <div class="text3">
     <ul>
       <li>基本概念</li>
@@ -535,14 +535,14 @@
 </div>
 
 <!--日志管理-->
-<div class="title">日志管理</div>
+<div class="title"><a name="log_management">日志管理</a></div>
 <div class="text3">
   <p>可记录访问日志。管理员可以指定哪些操作需要记录，指定完成后，今后发生的这些操作就都被记录下来，包括操作时间、操作人、所做的操作和操作参数。管理员可查看、搜索这些操作记录。</p>
   <div class="go_top"><a href="#top">^ 返回顶部</a></div>
 </div>
 
 <!--软件配置-->
-<div class="title">软件配置</div>
+<div class="title"><a name="config">软件配置</a></div>
 <div class="text3">
 <ul>
       <li>存储区管理</li>
@@ -552,20 +552,20 @@
 </div>
 
 <!--工具-->
-<div class="title">工具</div>
+<div class="title"><a name="tools">工具</a></div>
 <div class="text3">
   <div class="go_top"><a href="#top">^ 返回顶部</a></div>
 </div>
 
 <!--界面定制-->
-<div class="title">界面定制</div>
+<div class="title"><a name="custom">界面定制</a></div>
 <div class="text3">
 <p>网页版可对界面进行定制，可设定缩略图下方文字和图片详情的显示方式，下图是为外资卡车公司定制的界面。</p>
 <center><img src="images/superlib_network_features_044.jpg" alt="为外资卡车公司定制的缩略图显示页面"></center>
 <p class="image_name">为外资卡车公司定制的缩略图显示页面</p>
 <center><img src="images/superlib_network_features_045.jpg" alt="为外资卡车公司定制的图片详情显示页面"></center>
 <p class="image_name">为外资卡车公司定制的图片详情显示页面</p>
-  <div class="go_top"><a href="#top">^ 界面定制</a></div>
+  <div class="go_top"><a href="#top">^  返回顶部</a></div>
 </div>
 
 </div>

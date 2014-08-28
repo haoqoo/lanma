@@ -14,7 +14,7 @@
 
   <div class="main">  
     <div class="content">    
-      <div class="here">首页 >> 产品 >> 超级图库管理软件 >> 网络版 >> 常见问题解答</div>
+      <div class="here"><a href="index.php">首页</a> >> <a href="products.php">产品</a>   >> <a href="superlib_network.php">网络版</a> >> 常见问题解答</div>
       <div class="con_m"> 
        <?php $active="faq"; include 'superlib_network_left.php'; ?>
        <div class="con_r">

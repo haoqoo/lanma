@@ -15,7 +15,7 @@
 
   <div class="main">  
     <div class="content"> 
-      <div class="here">首页 >> 解决方案 >> 电力企业</div>   
+      <div class="here"><a href="index.php">首页</a> >> <a href="solution.php">解决方案</a> >> 电力企业</div>   
       <div class="text2">
         <h2 align="center">超级图库管理软件在电力行业中的应用--某大型电力监理案例介绍</h2>
         <h3>1	概述</h3>

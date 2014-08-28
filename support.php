@@ -13,7 +13,7 @@ include("meta.php"); ?>
 <div class="subbanner"><img src="images/banner_sup.png" width="1200" height="225" /></div>
 <div class="main">  
   <div class="content"> 
-    <div class="here">首页 >> 服务与支持</div>   
+    <div class="here"><a href="index.php">首页</a> >> 服务与支持</div>   
     <div class="text2">
     <p>● 凡使用本公司产品，我们都将提供无偿地在线或来电技术支持；</p>
     <p>● 凡购买本公司产品的用户，我们可提供在线帮助安装服务(北京地区可提供无偿地售前上门演示及售后上门安装服务)；</p>

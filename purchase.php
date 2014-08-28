@@ -12,7 +12,7 @@ include("meta.php");  ?>
 <div class="subbanner"><img src="images/banner_pur.png" width="1200" height="225" /></div>
 <div class="main">  
   <div class="content"> 
-    <div class="here">首页 >> 软件购买</div>   
+    <div class="here"><a href="index.php">首页</a> >> 软件购买</div>   
     <div class="text2">
     <p><span style="font-size:16px;font-weight:bold; font-family:'微软雅黑';">超级图库管理软件 SuperLib 网络版</span></p>
     <p>软件订购及售前咨询电话：010-62363364 / 010-62041191&nbsp;&nbsp;<a href="superlib_network.php"><strong>查看软件介绍</strong></a></p>

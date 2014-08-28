@@ -16,7 +16,7 @@
 <div class="subbanner"><img src="images/banner_ab.png" width="1200" height="225" /></div>
 <div class="main">  
   <div class="content"> 
-    <div class="here">首页 >> 联系我们</div>   
+    <div class="here"><a href="index.php">首页</a> >> 联系我们</div>   
     <div class="text2">
     <p><span style="font-size:16px;font-weight:bold; font-family:'微软雅黑';">北京蓝码动力软件科技有限公司</span></p>
     <p>● 地址：北京市西城区新街口外大街8号金丰和商务苑E座</p>

@@ -14,23 +14,23 @@ include('meta.php'); ?>
 <div class="subbanner"><img src="images/banner_on.png" width="1200" height="225" /></div>
 <div class="main">  
   <div class="content"> 
-    <div class="here">首页 >> 在线试用</div>   
+    <div class="here"><a href="index">首页</a> >> 在线试用</div>   
     <div class="div_on">
       <div class="subdiv_on">
-        <div class="on_pic"><a href="#"><img src="images/photo_manager.jpg" width="200" height="150" border="0" /></a></div>
-        <div class="on_tit"><a href="#">学校图片管理系统</a></div>
+        <div class="on_pic"><a href="online_trial_school.php"><img src="images/photo_manager.jpg" width="200" height="150" border="0" /></a></div>
+        <div class="on_tit"><a href="online_trial_school.php">学校图片管理系统</a></div>
       </div>
       <div class="subdiv_on">
-        <div class="on_pic"><a href="#"><img src="images/online_trial_design.jpg" width="200" height="150" border="0" /></a></div>
-        <div class="on_tit"><a href="#">设计图片管理系统</a></div>
+        <div class="on_pic"><a href="online_trial_design.php"><img src="images/online_trial_design.jpg" width="200" height="150" border="0" /></a></div>
+        <div class="on_tit"><a href="online_trial_design.php">设计图片管理系统</a></div>
       </div>
       <div class="subdiv_on">
-        <div class="on_pic"><a href="#"><img src="images/online_trial_press.jpg" width="200" height="150" border="0" /></a></div>
-        <div class="on_tit"><a href="#">新闻传媒图片管理系统</a></div>
+        <div class="on_pic"><a href="online_trial_press.php"><img src="images/online_trial_press.jpg" width="200" height="150" border="0" /></a></div>
+        <div class="on_tit"><a href="online_trial_press.php">新闻传媒图片管理系统</a></div>
       </div>
       <div class="subdiv_on">
-        <div class="on_pic"><a href="#"><img src="images/online_trial_admin.jpg" width="200" height="150" border="0" /></a></div>
-        <div class="on_tit"><a href="#">以管理员身份试用</a></div>
+        <div class="on_pic"><a href="online_trial_admin.php"><img src="images/online_trial_admin.jpg" width="200" height="150" border="0" /></a></div>
+        <div class="on_tit"><a href="online_trial_admin.php">以管理员身份试用</a></div>
       </div>
     </div>
   </div>

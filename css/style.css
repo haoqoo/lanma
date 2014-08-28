@@ -225,3 +225,46 @@ font-weight: bold;
 font-size: 14px;
 }
 .suc_r_t a,.suc_r_t li a:link { color:#666666}
+
+ul.expmenu,ul.expmenu li ul  {
+	list-style-type: none;
+}
+ul.expmenu{width:145px;margin:0px; padding:0px;}
+ul.expmenu li div.header{ width:145px; height:42px; background:url(../images/nav_05.png) no-repeat left top; padding:0px; margin:0px;}
+ul.expmenu li ul li {width:145px; background:url(../images/sub_nav_03.png) repeat-y left top; color:#3fa2c7;}
+ul.expmenu li ul li.selected{ text-decoration:underline;}
+ul.expmenu div.header{
+	background:url(../images/nav_03.png) no-repeat left top;
+}
+ul.expmenu li div.header .label{line-height:42px; padding:0 10px 0 25px;font-size:14px; font-family:"微软雅黑";  }
+ul.expmenu li .sub_expmenu{display:none;}	
+/* Mouse Events */
+ul.expmenu div.header:hover{
+   background:url(../images/nav_03.png) no-repeat left top;
+   cursor:pointer;
+   color:#fff;
+}
+
+ul.expmenu li ul li:not(.selected):hover{
+	cursor:pointer;
+}
+ul.expmenu li ul li:not(.selected):active{
+	cursor:pointer;
+}
+
+.sub_expmenu { padding:0px; margin:0px;}
+.sub_expmenu ol { padding:0px; }
+.sub_expmenu a{color: #3fa2c7;text-decoration: none; padding:5px 10px 5px 35px; line-height:20px;}
+.sub_expmenu li a:link { color:#3fa2c7 ;display: block; padding-left:35px;} 
+.sub_expmenu li a:hover,.sub_expmenu li a:active,.sub_expmenu li a:visited { color:#3fa2c7; text-decoration:underline;} 
+.sub_expmenu .no {display:none;}
+
+ul.expmenu .label a:visited, ul.expmenu .label a {
+text-decoration: none;
+color: #666666;
+font-family: 微软雅黑;
+}
+ul.expmenu .label a:hover, ul.expmenu .label a:active {
+color:#666666;
+text-decoration: none;
+}

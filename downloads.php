@@ -14,7 +14,7 @@
 	<div class="subbanner"><img src="images/banner_dow.png" width="1200" height="225" /></div>
 	<div class="main">  
 		<div class="content"> 
-			<div class="here">首页 >> 下载中心</div>   
+			<div class="here"><a href="index.php">首页</a> >> 下载中心</div>   
 			<div class="text2">
 				<p><span style="font-size:16px;font-weight:bold; font-family:'微软雅黑';">超级图库管理软件(SuperLib)稳定版 v3.8.72.5805</span>（支持简体中文、繁体中文和英文）[2014年6月5日]</p>
 				<p>操作系统: Windows XP/2003/Vista/Win7/Win8</p>

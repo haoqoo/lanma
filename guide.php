@@ -19,7 +19,7 @@
 
   <div class="main">  
     <div class="content"> 
-      <div class="here">首页 >> 超级图库网络版安装指南</div>   
+      <div class="here"><a href="index.php">首页</a> >> 超级图库网络版安装指南</div>   
       <div class="text2" style="padding-top:0; padding-left:50px;">
         <div class="newsHeadline"><div class="container"><span class="title">超级图库网络版安装指南</span></div></div>
         <div id="guide" class="maintext_new">

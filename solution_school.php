@@ -15,7 +15,7 @@
 
   <div class="main">  
     <div class="content"> 
-      <div class="here">首页 >> 解决方案 >> 学校</div>   
+      <div class="here"><a href="index.php">首页</a> >> <a href="solutions.php">解决方案</a> >> 学校</div>   
       <div class="text2">
         <h2 align="center">蓝码学校图片管理系统介绍</h2>
       

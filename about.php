@@ -19,7 +19,7 @@
 
 <div class="main">  
   <div class="content"> 
-    <div class="here">首页 >> 关于蓝码动力</div>   
+    <div class="here"><a href="index.php">首页</a> >> 关于蓝码动力</div>   
     <div class="text2">
     <p><span style="font-size:16px;font-weight:bold; font-family:'微软雅黑';">北京蓝码动力软件科技有限公司</span></p>
     <p>北京蓝码动力软件科技有限公司成立于2006年7月。入驻于西城区金丰和商务苑科技园区，属于北京市科委认定的软件企业。公司自创立以来一直致力于海量的图形/图像管理及文档管理领域的信息化建设，并依托核心软件的强大功能和通用性，根据不同客户的实际需求，提供个性化的定制服务，为用户提供更体贴的产品和解决方案，帮助客户轻松提高工作效率。</p>

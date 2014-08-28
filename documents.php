@@ -14,7 +14,7 @@ include("meta.php");
 <div class="subbanner"><img src="images/banner_doc.png" width="1200" height="225" /></div>
 <div class="main">  
   <div class="content"> 
-    <div class="here">首页 >> 相关文档</div>   
+    <div class="here"><a href="index.php">首页</a> >> 相关文档</div>   
     <div class="title">软件介绍</div>
     <div class="text2">
 	   <p>
