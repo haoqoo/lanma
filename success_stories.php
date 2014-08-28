@@ -229,6 +229,303 @@
               <br>
             </div>      
           </div>
+
+
+          <div class="suc_r_t">壁纸、软装饰行业</div>
+          <div class="suc_r_m">
+            <div class="srm_div">
+              <div class="srm_t">ROEN柔然壁纸</div>
+              <div class="srm_m srm_p">
+                <div class="right"><a href="http://www.roen.com.cn" target="_blank"><img src="images/customer_logo_roen.gif" alt="ROEN柔然壁纸" border="0"></a></div>
+               <p><a href="http://www.roen.com.cn" target="_blank">ROEN柔然壁纸</a>，中国壁纸、软装饰行业领导者，领先的国际化壁纸、软装整体方案解决商。壁纸业首个三届蝉联中国500最具价值品牌。中国壁纸行业十大品牌。</p>
+               <p>使用SuperLib软件网络版，并且定制了自动创建文件夹工具、文件自动上传工具和网站接口。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>            
+          </div>
+
+
+          <div class="suc_r_t">服装设计及生产</div>
+          <div class="suc_r_m">
+            <div class="srm_div">
+              <div class="srm_t">上海美特斯邦威服饰股份有限公司</div>
+              <div class="srm_m srm_p">
+                <div class="right"><a href="http://www.metersbonwe.com" target="_blank"><img src="images/customer_logo_metersbonwe.gif" alt="上海美特斯邦威服饰股份有限公司" border="0"></a></div>
+               <p><a href="http://www.metersbonwe.com" target="_blank">上海美特斯邦威服饰股份有限公司</a>主要研发、采购和营销自主创立的“Meters/bonwe”和“ME&amp;CITY”两大品牌时尚休闲服饰。目前全国设有专卖店近3000家，2008年全系统销售额达70亿元，位居中国市场的本土和国际休闲服品牌之首。</p>
+               <p>使用SuperLib软件网络版。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div> 
+
+            <div class="srm_div">
+            <div class="srm_t">浙江红黄蓝服饰股份有限公司</div>
+            <div class="srm_m srm_p">
+              <div class="right"><a href="http://www.jiahui72.com" target="_blank"><img src="images/customer_logo_jiahui.jpg" alt="嘉汇设计装饰工程有限公司" border="0"></a></div>
+              <p><a href="http://www.jiahui72.com" target="_blank">嘉汇设计装饰工程有限公司</a>，源于香港。一直以来，公司坚持将专业的理念、到位的策划、丰富的运作经验以及认真负责的职业态度，融入到设计、施工的每个环节中，设计优质的蓝图，营做优质的工程项目，与客户共同成就理想。</p>               <p>使用SuperLib软件网络版。</p>
+              <div class="clear"></div>
+            </div>
+            <br>
+          </div> 
+
+           <div class="srm_div">
+            <div class="srm_t">北京中美埃德姆装饰有限公司</div>
+            <div class="srm_m srm_p">
+              <div class="right"><a href="http://www.adam-interiors.com" target="_blank"><img src="images/customer_logo_adams.jpg" alt="北京中美埃德姆装饰有限公司" border="0"></a></div>
+              <p><a href="http://www.adam-interiors.com" target="_blank">ADAM设计</a>成立于1999年，是专业的国际设计服务公司。公司建立之初便定位于高端市场的拓展与服务，多年来与摩托罗拉（中国）电子有限公司、中央电视台、松下电器等客户的密切合作，不仅使ADAM积累了国际一流的专业经验，更赢得了众所瞩目的业界声誉。</p>
+              <p>使用SuperLib软件网络版。</p>
+              <div class="clear"></div>
+            </div>
+            <br>
+          </div>
+
+           <div class="srm_div">
+            <div class="srm_t">上海高迪建筑工程设计有限公司</div>
+            <div class="srm_m srm_p">
+              <p><a href="http://web.biz.sh.cn/2002/p34/p34-19.htm" target="_blank">上海高迪建筑工程设计有限公司</a>是－－中国台湾高能公司之上海分公司。主要经营项目为建筑规划设计与各种商业、办公、住宅，以及样板房的设计，公司参与作品遍布于台湾、香港、以及中国各地。</p>
+              <p>将各种设计资料按不同标准分类，并预定义上百个关键词以便分类检索。<a href="case_gaodi.php" target="_blank">查看此案例的详细介绍</a>。  
+              
+            </p>
+              <div class="clear"></div>
+            </div>
+            <br>
+          </div>                      
+          </div>
+
+          <div class="suc_r_t">出版社、编辑部、报社</div>
+          <div class="suc_r_m">
+            <div class="srm_div">
+              <div class="srm_t">北京博尔乐文化发展有限公司</div>
+              <div class="srm_m srm_p">
+                <div class="right"><a href="http://yinshua.qincai.net/corp-67641.html" target="_blank"><img src="images/customer_logo_boerle.jpg" alt="北京博尔乐文化发展有限公司" border="0"></a></div>
+               <p><a href="http://yinshua.qincai.net/corp-67641.html" target="_blank">北京博尔乐文化发展有限公司</a>是一家中国业内知名的文化传播公司，运作销售的孕育图书占国内市场份额一半以上，通过人口出版社等出版。</p>
+              <p>使用超级图库管理软件(SuperLib)网络版，并加装《蓝码设计图片管理系统》。<a href="solution_book_publish.php" target="_blank">查看此案例的详细介绍</a>。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div> 
+              <div class="srm_div">
+              <div class="srm_t">云南省德宏团结报社</div>
+              <div class="srm_m srm_p">
+              <div class="right"><a href="http://www.dhtjb.com" target="_blank"><img src="images/customer_logo_dhtjbs.jpg" alt="云南省德宏团结报社" border="0"></a></div>
+              <p><a href="http://www.dhtjb.com" target="_blank">云南省德宏团结报社</a>《德宏团结报》是在党的民族工作胜利发展的形势下创办的。1952年夏天，省民族工作队到德宏，开展了系列的民族工作。随着工作的进展，民族团结、生产发展、对敌斗争等方面都取得了显著成绩。1953年德宏傣族景颇族自治区成立。 到1954年，德宏工作已发展到一个新的阶段：随着各族群众觉悟的提高，民族内部原有的阶级矛盾逐步突出，傣族地区的群众开展了自发的抗缴官租运动，农民提出了土地要求，土地改革势在必行。这一新的形势，要求党委加强统一领导，以保证民族工作的健康发展。中共云南省委决定在德宏边疆创办一张用汉文与民族文出版的报纸，加强民族团结的宣传。《德宏团结报》就是在这种形势下创刊的。当时，德宏边工委还没有成立，保山、德宏两个行政区域党内同属于保山地委领导，报纸暂由保山地委领导，社址暂定在保山。1956年成立德宏自治州，报社随即迁至芒市，社址在现州民族出版社社址。</p>
+                <p>使用超级图库管理软件(SuperLib)网络版。</p>              
+                 <div class="clear"></div>
+              </div>
+              <br>
+            </div>  
+
+            <div class="srm_div">
+              <div class="srm_t">北京师范大学出版社</div>
+              <div class="srm_m srm_p">
+              <div class="right"><a href="http://www.bnup.com.cn" target="_blank"><img src="images/customer_logo_bnup.gif" alt="北京师范大学出版社" border="0"></a></div>
+              <p><a href="http://www.bnup.com.cn/" target="_blank">北京师范大学出版社</a>用SuperLib软件网络版管理各种图片资料，包括photoshop、coreldraw等软件的图片格式。<a href="case_bnup.php" target="_blank">查看此案例的详细介绍</a>。</p>
+                 <div class="clear"></div>
+              </div>
+              <br>
+            </div>   
+
+             <div class="srm_div">
+              <div class="srm_t">中国中医药报社</div>
+              <div class="srm_m srm_p">
+              <div class="right"><a href="http://www.cntcm.com.cn/" target="_blank"><img src="images/customer_logo_cntcm.jpg" alt="中国中医药报社" border="0"></a></div>
+              <p><a href="http://www.cntcm.com.cn/" target="_blank">中国中医药报社</a>用SuperLib软件网络版存储2万多张照片，用自定义属性功能，录入每张照片的拍摄人、拍摄时间、录入人、录入时间、是否使用过等信息。<a href="case_cntcm.php" target="_blank">查看此案例的详细介绍</a>。</p>
+                 <div class="clear"></div>
+              </div>
+              <br>
+            </div> 
+
+             <div class="srm_div">
+              <div class="srm_t">某军事杂志</div>
+              <div class="srm_m srm_p">
+             <p>将摄影记者的外拍照片放入SuperLib软件网络版，由专人利用图库的多重分类功能进行分类，并提供给各位编辑使用。编辑使用后在“真实文件说明”中标记此照片在哪一期杂志中已使用过，避免重复使用。</p>
+                 <div class="clear"></div>
+              </div>
+              <br>
+            </div> 
+
+             <div class="srm_div">
+              <div class="srm_t">某图书出版公司</div>
+              <div class="srm_m srm_p">
+             <p>某图书出版公司用超级图库软件管理所有的图片，包括原始照片、用photoshop处理过的图片等。这是一个私营企业，人员流动性较大，公司高层希望能建立一个核心图片库，使得原有的大量图片资料得到有效地管理和应用，并且在工作中不断充实此图片库。在应用了超级图库软件之后，该公司的图片管理井井有条，员工随时都可以查找到需要使用的图片，并且每个员工制作的新图片也要存放在图片库中，即使人员流动时也不会造成工作成果的损失。该公司已两次增购超级图库软件使用节点。</p>
+                 <div class="clear"></div>
+              </div>
+              <br>
+            </div>                   
+          </div>
+
+
+          <div class="suc_r_t">设计院</div>
+          <div class="suc_r_m">
+            <div class="srm_div">
+              <div class="srm_t">翰凯（AHS）国际建筑设计咨询有限公司</div>
+              <div class="srm_m srm_p">
+                <div class="right"><a href="http://www.ahs-ad.com/" target="_blank"><img src="images/customer_logo_ahs.gif" alt="翰凯（AHS）国际建筑设计咨询有限公司" border="0"></a></div>
+                <p><a href="http://www.ahs-ad.com/" target="_blank">翰凯（AHS）国际建筑设计咨询有限公司</a>专业从事现代化医院、实验室工程规划设计、建筑设计、室内设计、项目建设投资及管理专业咨询，为各级医院、疾病控制中心、大学及医学科研机构提供全方位的设计及咨询服务。</p>
+                <p>公司创立于美国亚特兰大，2005年在中国北京正式独资注册。公司目标是按照国际标准，将国际先进的医疗建筑及实验室建筑设计与规划理念和技术介绍到中国，为中国的广大客户提供高水准、高质量的与国际接轨的专业化医疗建筑设计。</p>
+                <p>用SuperLib软件网络版存储工程图纸和设计图块。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>
+
+            <div class="srm_div">
+              <div class="srm_t">东莞市岭南园林绿化有限公司</div>
+              <div class="srm_m srm_p">
+               <div class="right"><a href="http://www.dglingnan.cn/cn/about.asp" target="_blank"><img src="images/customer_logo_lingnan_yuanlin.jpg" alt="东莞市岭南园林绿化有限公司" border="0"></a></div>
+              <p>岭南企业源自1994年创立的<a href="http://www.dglingnan.cn/cn/about.asp" target="_blank">东莞市岭南园林绿化有限公司</a>的发展，其后又相继创办了岭南实业投资有限公司、岭南市政服务有限公司、岭南园林景观设计有限公司、岭南苗木松山湖分公司、信扬电子科技有限公司、凤岗分公司、逸山景分公司等经营实体，发展成为涉及园林行业、物业投资与开发、市政服务行业、节电节能行业等多领域经营的集团化企业。</p>
+               <p>用SuperLib软件网络版存储工程图纸和设计图块。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div> 
+
+            <div class="srm_div">
+              <div class="srm_t">佛山市南海城乡建筑设计有限公司、佛山市南海规划设计院有限公司</div>
+              <div class="srm_m srm_p">
+               <div class="right"><a href="http://www.cxdesign.cn/" target="_blank"><img src="images/customer_logo_foshan.jpg" alt="佛山市南海城乡建筑设计有限公司、佛山市南海规划设计院有限公司" border="0"></a></div>
+              <p><a href="http://www.cxdesign.cn/" target="_blank">佛山市南海城乡建筑设计有限公司、佛山市南海规划设计院有限公司</a>，位于广东省第三大城市——佛山市内，邻近广州15公里。于1999年由市规划局下属单位企业改制而成。现已取得了建筑设计综合甲级资质（建筑设计甲级、建筑咨询甲级、建筑装饰设计甲级、消防设计甲级），工程勘察乙级资质，规划设计乙级资质，市政道路、园林丙级资质，以及成立了监理公司及建筑智能化等下属公司。</p>
+               <p>用SuperLib软件网络版存储工程图纸和设计图块。<a href="case_fsnh.php" target="_blank">查看此案例的详细介绍</a>。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>  
+
+             <div class="srm_div">
+              <div class="srm_t">北京市城市规划设计研究院</div>
+              <div class="srm_m srm_p">
+               <div class="right"><a href="http://www.bjghy.com.cn/" target="_blank"><img src="images/customer_logo_bjghy.gif" alt="北京市城市规划设计研究院" border="0"></a></div>
+              <p><a href="http://www.bjghy.com.cn/" target="_blank">北京市城市规划设计研究院</a>（简称北京市规划院）是北京市规划委员会所属负责编制城乡各项规划的事业单位，是国家建设部批准的甲级资质规划设计单位，其主要职能是为市政府对城市建设宏观决策及各项建设提供规划服务。</p>               
+              <p>用SuperLib软件网络版存储城市照片和单位内部活动照片。<a href="case_bjghy.php" target="_blank">查看此案例的详细介绍</a>。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>             
+          </div>
+
+           <div class="suc_r_t">摄影</div>
+          <div class="suc_r_m">
+            <div class="srm_div">
+              <div class="srm_t">中国商业摄影网</div>
+              <div class="srm_m srm_p">
+               <div class="right"><a href="http://www.zgsysyw.com/" target="_blank"><img src="images/customer_logo_minghe.jpg" alt="中国商业摄影网" border="0"></a></div>
+                <p><a href="http://www.zgsysyw.com/" target="_blank">中国商业摄影网</a>使用SuperLib软件网络版，使用两个磁盘阵列柜，存储9000GB的影像资料。<a href="case_sysy.php" target="_blank">查看此案例的详细介绍</a>。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>
+
+            <div class="srm_div">
+              <div class="srm_t">天津某高校摄影协会</div>
+              <div class="srm_m srm_p">
+               <p>使用SuperLib软件网络版，实现多个人能同时远程访问到照片库。</p>
+               <p><a href="case_sheying.php" target="_blank">更多内容</a></p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>                            
+          </div>
+
+           <div class="suc_r_t">制造业</div>
+          <div class="suc_r_m">
+            <div class="srm_div">
+              <div class="srm_t">深圳市宝安区福永镇胜技制品厂</div>
+              <div class="srm_m srm_p">
+               <p>胜技制品厂位于广东深圳市宝安区福永，主营塑胶玩具。产品主要销往日本，韩国，及欧洲地区。使用SuperLib软件网络版。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>
+
+            <div class="srm_div">
+              <div class="srm_t">太原和利川工控技术有限公司</div>
+              <div class="srm_m srm_p">
+               <p>太原和利川工控技术有限公司是一家从事工业自动化与控制产品的成套配套、品牌代理、进口贸易、技术服务为一体的工业控制技术及设备的自动化控制企业。使用SuperLib软件网络版。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div> 
+            <div class="srm_div">
+              <div class="srm_t">台湾贺凯实业</div>
+              <div class="srm_m srm_p">
+              <div class="right"><a href="http://www.hokei.com/" target="_blank"><img src="images/customer_logo_hokei.gif" alt="台湾贺凯实业" border="0"></a></div>
+               <p>For over a decade now, HOKEI Corporation has been involved in the development of various merchandise from rotary power brushes and cleaning tools to luggage carts and luggage handle system, exhibiting its versatility and flexibility for the past years.</p>
+               <p>用SuperLib软件网络版管理设计素材、设计产品和工作文档，软件的多国语言功能（简体中文、繁体中文、英文）使他们受益。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>  
+             <div class="srm_div">
+              <div class="srm_t">风腾机械(北京)有限公司</div>
+              <div class="srm_m srm_p">
+              <div class="right"><a href="http://www.formtek.com.cn/" target="_blank"><img src="images/customer_logo_fomrtek.jpg" alt="风腾机械(北京)有限公司" border="0"></a></div>
+               <p>Formtek is a group of long-established companies, each with a well-known name  and  a history of providing innovative and reliable equipment to the  metal  forming     and metal processing industries.</p>
+               <p>用SuperLib软件网络版管理机械图纸和设计资料。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>  
+            <div class="srm_div">
+              <div class="srm_t">江苏小太阳印染机械有限公司</div>
+              <div class="srm_m srm_p">
+              <div class="right"><a href="http://www.xty.cc/" target="_blank"><img src="images/customer_logo_xty.png" alt="江苏小太阳印染机械有限公司" border="0"></a></div>
+               <p><a href="http://www.xty.cc/" target="_blank">江苏小太阳印染机械有限公司</a>（宜兴市阳光印染机械有限公司）位于美丽的太湖之滨，是专业制造各种进口、国产拉幅定型机、丝光机、毛毯机、人革机、涂层机、蒸化机、氧漂机、平网印花机等印染机械配件的企业。主要产品有布铗、链条、针座、针板、刮刀、刮刀支架、闷头、润滑板、三指剥边器、平板剥边器、平板风吹剥边器、道轨等印染机械配件。</p>
+               <p>用SuperLib软件网络版管理设计素材、设计产品和工作文档。<a href="case_xiaotayang.php" target="_blank">查看此案例的详细介绍</a>。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>                             
+          </div>
+
+           <div class="suc_r_t">医院</div>
+          <div class="suc_r_m">
+            <div class="srm_div">
+              <div class="srm_t">北京协和医院</div>
+              <div class="srm_m srm_p">
+                <div class="right"><a href="http://www.pumch.ac.cn/" target="_blank"><img src="images/customer_logo_pumch.jpg" alt="北京协和医院" border="0"></a></div>
+                <p>医院的党委宣传部有5名员工，每月产生数千张照片。使用软件后，照片的录入、管理工作得以正规化、制度化，查询起来也非常方便。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>
+
+            <div class="srm_div">
+              <div class="srm_t">四川广安阿蓝医院有限责任公司</div>
+              <div class="srm_m srm_p">
+                <div class="right"><a src="http://www.gaalan.com/"><img src="images/customer_logo_alan.jpg" alt="四川广安阿蓝医院有限责任公司" border="0"></a></div>
+                <p>使用SuperLib软件网络版存储医院的档案、照片等资料。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>                                            
+          </div>
+
+          <div class="suc_r_t">电子</div>
+          <div class="suc_r_m">
+            <div class="srm_div">
+              <div class="srm_t">宁波赛尔富电子有限公司</div>
+              <div class="srm_m srm_p">
+                <div class="right"><a href="http://www.self.cn" target="_blank"><img src="images/customer_logo_self.jpg" alt="宁波赛尔富电子有限公司" border="0"></a></div>
+                <p><a href="http://www.self.cn" target="_blank">宁波赛尔富电子有限公司</a>，拥有庞大的人才队伍，集中了几十名资深开发工程师，拥有最先进、齐全的测试仪器，拥有几乎所有欧洲、北美与照明有关的全部标准，能进行全套UL、VDE等机构所要求的有关电子镇流器、电子变压器、荧光灯具、电子调光器等其它照明产品的测试工作，并与多家权威认证机构保持着良好的合作关系。</p>
+                <p>使用SuperLib软件网络版。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>
+
+            <div class="srm_div">
+              <div class="srm_t">上海仙视电子有限公司</div>
+              <div class="srm_m srm_p">
+                <div class="right"><a href="http://www.goodview-digital.com/" target="_blank"><img src="images/customer_logo_goodview.jpg" alt="上海仙视电子有限公司" border="0"></a></div>
+                <p><a href="http://www.goodview-digital.com/" target="_blank">上海仙视电子有限公司</a>，是一家较早从事液晶显示器设备研究、开发和生产的企业，公司产品遍布于全国六十几个大中城市。</p>
+               <p>使用SuperLib软件网络版。<a href="case_shxs.php" target="_blank">查看此案例的详细介绍</a>。</p>
+               <div class="clear"></div>
+              </div>
+              <br>
+            </div>                                            
+          </div>
+         
         </div>
 
         <div class="clear"></div>
