@@ -15,26 +15,22 @@ include 'meta.php'; ?>
 
 <div class="main">  
   <div class="content">    
-    <div class="here"><a href="index.php">首页</a> >> <a href="products.php">产品</a>   >> <a href="superlib_network.php">网络版</a> >> 演示录像 >> 软件介绍</div>
+    <div class="here"><a href="index.php">首页</a> >> <a href="products.php">产品</a>   >> <a href="superlib_network.php">网络版</a> >> <a href="demo_video_introduction.php">演示录像</a> >> 软件介绍</div>
     <div class="con_m"> 
       <?php include 'superlib_network_left.php'; ?>
       <div class="con_r">
         <div class="video_nav">
         <table width="100%" border="0" cellspacing="0" cellpadding="0">
           <tr>
-            <td class="vtd01">软件介绍</td>
-            <td class="vtd02">软件的安装和注册</td>
-            <td class="vtd02">控制台配置和客户端授权</td>
-            <td class="vtd02">客户端使用方法</td>
-            <td class="vtd02">网页访问使用方法</td>
-            <td class="vtd02">网页访问使用方法</td>
-            <td class="vtd02">网页访问使用方法</td>
-            <td class="vtd02">网页访问使用方法</td>
-            <td class="vtd02">网页访问使用方法</td>
+           <td class="vtd01">软件介绍</td>
+            <td class="vtd02"><a href="demo_video_installation.php">软件安装和配置</a></td>
+            <td class="vtd02"><a href="demo_video_use.php">软件使用</a></td>
+            <td class="vtd02"><a href="demo_video_search.php">软件搜索</a></td>
+
           </tr>
         </table>
         </div>
-        <div class="video_m"><img src="images/pic_03.png" width="640" height="535" /></div>
+        <div class="video_m"><iframe id="ifrObj" frameborder="0" src="demo_video/video/introduction/001.html"></iframe></div>
       </div>
       <div class="clear"></div>
     </div>

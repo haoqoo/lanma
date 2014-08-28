@@ -92,7 +92,7 @@
     </li>
         <li>
       <div class="header">
-        <span class="label"><a href="demo_video.php">演示录像</a></span>
+        <span class="label"><a href="demo_video_introduction.php">演示录像</a></span>
       </div>
         </li>
         <li>

@@ -225,6 +225,11 @@ font-weight: bold;
 font-size: 14px;
 }
 .suc_r_t a,.suc_r_t li a:link { color:#666666}
+#ifrObj {
+width: 100%;
+height: 600px;
+border: 0px;
+}
 
 ul.expmenu,ul.expmenu li ul  {
 	list-style-type: none;
