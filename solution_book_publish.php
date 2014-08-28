@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <?php 
-  $title = "客户案例 -蓝码动力";
+  $title = "解决方案 -蓝码动力";
   $keywords = "图片管理,照片管理,解决方案,超级图库管理软件,SuperLib,网络版,蓝码动力";
   $description = "超级图库管理软件在电力企业、图书出版、学校、广告公司、建筑设计、机械设计及制造、装饰设计、摄影、机关单位等行业的应用解决方案。";
   include('meta.php'); ?>
