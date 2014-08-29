@@ -24,7 +24,7 @@ require ('header.php');
         <div class="text_l"><img src="images/olympicbuiding.gif" /></div>
         <div class="text_r">
           <div class="tr01"><a href="superlib_network.php">网络版(C/S+B/S架构)</a></div>
-          <div class="tr01"><a href="#">单机版</a></div>
+          <div class="tr01"><a href="superlib_personal.php">单机版</a></div>
         </div>
         <div class="clear"></div>
       </div>

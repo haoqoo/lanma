@@ -179,6 +179,7 @@ border: 1px solid;
 }
 
 .linkQuestion {
+	font-weight: bolder;
 line-height: 200%;
 letter-spacing: 1px;
 }
@@ -272,4 +273,12 @@ font-family: 微软雅黑;
 ul.expmenu .label a:hover, ul.expmenu .label a:active {
 color:#666666;
 text-decoration: none;
+}
+.personal_faq_ul li{
+	padding: 5px;
+}
+.personal_faq_ul li a{
+	font-weight: bold;
+font-family: 微软雅黑;
+
 }
