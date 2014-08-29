@@ -18,7 +18,7 @@ include("meta.php");  ?>
     <p>软件订购及售前咨询电话：010-62363364 / 010-62041191&nbsp;&nbsp;<a href="superlib_network.php"><strong>查看软件介绍</strong></a></p>
     <p>&nbsp;</p>
     <p><span style="font-size:16px;font-weight:bold; font-family:'微软雅黑';">超级图库管理软件 SuperLib 单机版</span></p>
-    <p>软件订购及售前咨询电话：010-62363364 / 010-62041191&nbsp;&nbsp;<a href="#"><strong>查看软件介绍</strong></a></p>
+    <p>软件订购及售前咨询电话：010-62363364 / 010-62041191&nbsp;&nbsp;<a href="superlib_personal.php"><strong>查看软件介绍</strong></a></p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     </div>
