@@ -1,9 +1,9 @@
 <div class="top">
-  <div class="logo"><a href="index.html"><img src="images/logo.png" width="161" height="42" border="0" /></a></div>
-  <div class="qlink"><!-- <a href="#">管理员登陆</a> -->&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">English</a></div>
+  <div class="logo"><a href="index.php"><img src="images/logo.png" width="161" height="42" border="0" /></a></div>
+  <div class="qlink"><!-- <a href="#">管理员登陆</a> -->&nbsp;&nbsp;&nbsp;&nbsp;<a href="../en/index.php">English</a></div>
   <div class="ms">
     <div class="nav"><a href="about.php">关于蓝码动力</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="contact.php">联系我们</a></div>
-    <div class="search"><input type="text" name="textfield" id="textfield" style="width:182px; height:27px; border:0px; text-indent:5px; background:url(images/sear_10.png) no-repeat left center; line-height:27px;"/></div>
+    <!-- <div class="search"><input type="text" name="textfield" id="textfield" style="width:182px; height:27px; border:0px; text-indent:5px; background:url(images/sear_10.png) no-repeat left center; line-height:27px;"/></div> -->
     <div class="clear"></div>
   </div>
   <div class="clear"></div>

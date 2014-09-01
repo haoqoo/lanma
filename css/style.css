@@ -31,7 +31,7 @@ a:hover,a:active {color:#ff0000;text-decoration:none;}
 .logo { float:left; margin-top:29px; height:42px; width:161px;}
 .qlink { float:right; height:30px; line-height:30px;/* background:url(../images/index_03.png) no-repeat left center;*/ padding-left:20px;}
 .ms { float:right; height:50px; width:400px; position:absolute; top:40px; right:0px; line-height:50px;}
-.nav { float:left; height:50px; width:190px; line-height:50px; font-family:"微软雅黑"; font-size:14px; }
+.nav { float:right; height:50px; /* width:190px; */ line-height:50px; font-family:"微软雅黑"; font-size:14px; }
 .search { float:right; width:182px; height:27px; margin-top:10px; }
 
 .menu { background:#f6f3f3; height:41px; width:100%; position:relative;}
@@ -281,4 +281,16 @@ text-decoration: none;
 	font-weight: bold;
 font-family: 微软雅黑;
 
+}
+
+input[type="button"]{
+	cursor:pointer;
+}
+ul.suc_list li a.active{
+   color: #666666;
+   background: url(../images/suc_05.png) no-repeat left center !important;
+}
+
+.hidden_success{
+	display: none;
 }

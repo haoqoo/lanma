@@ -6,6 +6,7 @@
   $keywords = "成功案例,图片管理,照片管理,解决方案,超级图库管理软件,SuperLib,网络版,蓝码动力";
   $description = "超级图库管理软件在各行业中的成功案例介绍";
   include('meta.php'); ?>
+ 
 </head>
 
 <body>
@@ -20,8 +21,8 @@
         <div class="suc_left">
           <div class="sl_up"><img src="images/suc_03.png" width="199" height="49" /></div>
           <div class="sl_m">
-            <ul class="suc_list">
-              <li><a href="#electric_power">电力企业</a></li>
+            <ul class="suc_list success_stories_ul">
+              <li><a href="#electric_power" class="active">电力企业</a></li>
               <li><a href="#government">政府部门</a></li>
               <li><a href="#tobacco">烟草行业</a></li>
               <li><a href="#school">学校</a></li>
@@ -47,6 +48,7 @@
           </div>
         </div>
         <div class="suc_right">
+          <div class="electric_power hidden_success">
           <div class="suc_r_t"><a name="electric_power">电力企业</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
@@ -69,7 +71,9 @@
               </div>
             </div>
           </div>
+          </div>
 
+           <div class="government hidden_success">
           <div class="suc_r_t"><a name="government">政府部门</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
@@ -181,8 +185,10 @@
               <br>
             </div>                        
           </div>
+          </div>
 
 
+           <div class="tobacco hidden_success">
           <div class="suc_r_t" ><a name="tobacco">烟草行业</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
@@ -207,7 +213,9 @@
               <br>
             </div>      
           </div>
+          </div>
 
+          <div class="school hidden_success">
           <div class="suc_r_t"><a name="school">学校</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
@@ -231,8 +239,9 @@
               <br>
             </div>      
           </div>
-
-
+          </div>
+          
+           <div class="wall_paper hidden_success">
           <div class="suc_r_t"><a name="wall_paper">壁纸、软装饰行业</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
@@ -246,8 +255,9 @@
               <br>
             </div>            
           </div>
+          </div>
 
-
+        <div class="clothes hidden_success">
           <div class="suc_r_t"><a name="clothes">服装设计及生产</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
@@ -270,10 +280,10 @@
             </div>
             <br>
           </div> 
-
-                                
+          </div>
           </div>
 
+          <div class="decorate hidden_success">
            <div class="suc_r_t"><a name="decorate">装饰设计公司</a></div>
           <div class="suc_r_m">
              <div class="srm_div">
@@ -301,10 +311,10 @@
 
                                 
           </div>
-
+          </div>
 
          
-
+           <div class="book_publish hidden_success">
           <div class="suc_r_t"><a name="book_publish">出版社、编辑部、报社</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
@@ -366,8 +376,9 @@
               <br>
             </div>                   
           </div>
+          </div>
 
-
+          <div class="design_institute hidden_success">
           <div class="suc_r_t"><a name="design_institute">设计院</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
@@ -415,7 +426,10 @@
               <br>
             </div>             
           </div>
+          </div>
 
+
+           <div class="logo_design hidden_success">
             <div class="suc_r_t"><a name="logo_design">标识设计</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
@@ -429,7 +443,9 @@
               <br>
             </div>                              
           </div>
+          </div>
 
+          <div class="photography hidden_success">
            <div class="suc_r_t"><a name="photography">摄影</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
@@ -452,7 +468,9 @@
               <br>
             </div>                            
           </div>
+          </div>
 
+           <div class="manufacturing hidden_success">
            <div class="suc_r_t"><a name="manufacturing">制造业</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
@@ -503,7 +521,9 @@
               <br>
             </div>                             
           </div>
+          </div>
 
+           <div class="hospital hidden_success">
            <div class="suc_r_t"><a name="hospital">医院</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
@@ -526,7 +546,9 @@
               <br>
             </div>                                            
           </div>
+          </div>
 
+             <div class="electronic hidden_success">
           <div class="suc_r_t"><a name="electronic">电子</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
@@ -551,7 +573,9 @@
               <br>
             </div>                                            
           </div>
+          </div>
 
+    <div class="website hidden_success">
            <div class="suc_r_t"><a name="website">网站建设</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
@@ -576,7 +600,9 @@
               <br>
             </div>                                            
           </div>
+          </div>
 
+          <div class="agriculture hidden_success">
            <div class="suc_r_t"><a name="agriculture">农业研究机构</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
@@ -591,7 +617,10 @@
               <br>
             </div>                                                
           </div>
+          </div>
 
+
+           <div class="catering hidden_success">
            <div class="suc_r_t"><a name="catering">餐饮企业</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
@@ -605,7 +634,9 @@
               <br>
             </div>                                                
           </div>
+          </div>
 
+         <div class="catering hidden_success">
           <div class="suc_r_t"><a name="textile">纺织企业</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
@@ -619,7 +650,9 @@
               <br>
             </div>                                                
           </div>
+          </div>
 
+          <div class="automobile hidden_success">
           <div class="suc_r_t"><a name="automobile">汽车行业</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
@@ -632,7 +665,9 @@
               <br>
             </div>                                                
           </div>
+          </div>
 
+        <div class="xuanchuanbu hidden_success">
            <div class="suc_r_t"><a name="xuanchuanbu">各单位党委宣传部</a></div>
           <div class="suc_r_m">
             <div class="srm_div">
@@ -643,6 +678,7 @@
               </div>
               <br>
             </div>                                                
+          </div>
           </div>
          
         </div>
@@ -655,5 +691,23 @@
       <?php 
       require('footer.php');
       ?>
+
+      <script type="text/javascript">
+        $(document).ready(function(){
+          $(".electric_power").show();
+
+          $(".success_stories_ul li a").on('click',function(){
+             $(".success_stories_ul li a").removeClass("active");
+            var clss ="."+$(this).attr("href").substr(1);
+            $(".hidden_success").each(function(){
+               
+              $(this).hide();
+            });
+            $(clss).show();
+            $(this).addClass("active");
+
+          });
+        });
+      </script>
     </body>
     </html>

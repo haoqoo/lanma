@@ -15,7 +15,7 @@
 
   <div class="main">  
     <div class="content"> 
-      <div class="here">首页 >> 解决方案 >>  机械设计</div>   
+      <div class="here"><a href="index.php">首页</a> >> <a href="solutions.php">解决方案</a> >>  机械设计</div>   
       <div class="text2">
         <h2 align="center">SuperLib软件在机械设计中的应用</h2>           
 <div class="content">

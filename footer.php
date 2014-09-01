@@ -4,9 +4,9 @@
       <div class="foot_up_ml">您可以通过以下方式了解我们！>></div>
       <div class="foot_up_mr">
         <div class="div_con">
-          <div class="sub_div_con"><a href="#"><img src="images/index_62.png" width="90" height="25" border="0" /></a></div>
+          <div class="sub_div_con"><a href="tencent://message/?Uin=1931045538"><img src="images/index_62.png" width="90" height="25" border="0" /></a></div>
           <div class="sub_div_con"><a href="#"><img src="images/index_64.png" width="106" height="25" border="0" /></a></div>
-          <div class="sub_div_con"><a href="#"><img src="images/index_66.png" width="149" height="25" border="0" /></a></div>
+          <div class="sub_div_con"><a href="mailto:1931045538@qq.com"><img src="images/index_66.png" width="149" height="25" border="0" /></a></div>
           <div class="sub_div_con"><a href="#"><img src="images/index_68.png" width="135" height="25" border="0" /></a></div>
         </div>
       </div>

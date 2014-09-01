@@ -25,9 +25,9 @@
   ?>
   <div class="main">
     <div class="banner">
-     <div class="banner_m" style="padding:65px 0px;">          
-        <div class="jcarousel">
-          <ul>
+     <div class="banner_m" >          
+        <div class="jcarousel" style="padding-top:40px;">
+          <ul >
             <li>
               <table width=""  border="0" cellspacing="10">
                 <tbody><tr>
@@ -96,7 +96,7 @@
     <div class="subdiv_allinline">
       <table width="128" border="0">
         <tr>
-          <td align="center"><img src="images/index_301.png" width="115" height="115" /></td>
+          <td align="center"><a href="products.php"><img src="images/index_301.png" width="115" height="115" border="0"/></a></td>
         </tr>
         <tr>
           <td align="center" height="45"><img src="images/index_45.png" width="115" height="17" /></td>
@@ -122,7 +122,7 @@
     <div class="subdiv_allinline">
       <table width="128" border="0">
         <tr>
-          <td align="center"><img src="images/index_321.png" width="115" height="115" /></td>
+          <td align="center"><a href="solutions.php"><img src="images/index_321.png" width="115" height="115" /></a></td>
         </tr>
         <tr>
           <td align="center" height="45"><img src="images/index_46.png" width="115" height="17" /></td>
@@ -148,7 +148,7 @@
     <div class="subdiv_allinline">
       <table width="128" border="0">
         <tr>
-          <td align="center"><img src="images/index_341.png" width="115" height="115" /></td>
+          <td align="center"><a href="success_stories.php"><img src="images/index_341.png" width="115" height="115" /></a></td>
         </tr>
         <tr>
           <td align="center" height="45"><img src="images/index_47.png" width="115" height="17" /></td>
@@ -174,7 +174,7 @@
     <div class="subdiv_allinline">
       <table width="128" border="0">
         <tr>
-          <td align="center"><img src="images/index_361.png" width="115" height="115" /></td>
+          <td align="center"><a href="news.php"><img src="images/index_361.png" width="115" height="115" /></a></td>
         </tr>
         <tr>
           <td align="center" height="45"><img src="images/index_48.png" width="115" height="17" /></td>
@@ -200,7 +200,7 @@
   <div class="subdiv_allinline">
     <table width="128" border="0">
       <tr>
-        <td align="center"><img src="images/index_381.png" width="115" height="115" /></td>
+        <td align="center"><a href="emails.php"><img src="images/index_381.png" width="115" height="115" /></a></td>
       </tr>
       <tr>
         <td align="center" height="45"><img src="images/index_49.png" width="115" height="17" /></td>
@@ -225,7 +225,7 @@ require ('footer.php');
   jQuery(document).ready(function() {
      $('.jcarousel').unslider({
         speed: 500,               //  The speed to animate each slide (in milliseconds)
-        delay: 3000,              //  The delay between slide animations (in milliseconds), false for no autoplay
+        delay: 5000,              //  The delay between slide animations (in milliseconds), false for no autoplay
         complete: function() {},  //  A function that gets called after every slide animation
         keys: true,               //  Enable keyboard (left, right) arrow shortcuts
         dots: true,               //  Display dot navigation
