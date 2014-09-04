@@ -287,6 +287,17 @@
            <div class="suc_r_t"><a name="decorate">装饰设计公司</a></div>
           <div class="suc_r_m">
              <div class="srm_div">
+            <div class="srm_t">嘉汇设计装饰工程有限公司</div>
+            <div class="srm_m srm_p">
+              <div class="right"><a href="http://www.jiahui72.com" target="_blank"><img src="images/customer_logo_jiahui.jpg" alt="嘉汇设计装饰工程有限公司" border="0"></a></div>
+              <p><a href="http://www.jiahui72.com" target="_blank">嘉汇设计装饰工程有限公司</a>，源于香港。一直以来，公司坚持将专业的理念、到位的策划、丰富的运作经验以及认真负责的职业态度，融入到设计、施工的每个环节中，设计优质的蓝图，营做优质的工程项目，与客户共同成就理想。</p>
+              <p>使用SuperLib软件网络版。</p>
+              <div class="clear"></div>
+            </div>
+            <br>
+          </div>
+
+            <div class="srm_div">
             <div class="srm_t">北京中美埃德姆装饰有限公司</div>
             <div class="srm_m srm_p">
               <div class="right"><a href="http://www.adam-interiors.com" target="_blank"><img src="images/customer_logo_adams.jpg" alt="北京中美埃德姆装饰有限公司" border="0"></a></div>
@@ -308,7 +319,6 @@
             </div>
             <br>
           </div> 
-
                                 
           </div>
           </div>
@@ -636,7 +646,7 @@
           </div>
           </div>
 
-         <div class="catering hidden_success">
+         <div class="textile hidden_success">
           <div class="suc_r_t"><a name="textile">纺织企业</a></div>
           <div class="suc_r_m">
             <div class="srm_div">

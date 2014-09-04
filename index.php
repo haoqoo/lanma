@@ -13,8 +13,11 @@
   <script type="text/javascript" src="js/plugins/unslider/src/unslider.js"></script>
 
   <style type="text/css">
-    .jcarousel img{
-      max-width: 474px;
+   /*  .jcarousel img{
+     max-width: 474px;
+   } */
+    .float-left{
+      float: left;
     }
   </style>
 </head>
@@ -26,69 +29,46 @@
   <div class="main">
     <div class="banner">
      <div class="banner_m" >          
-        <div class="jcarousel" style="padding-top:40px;">
-          <ul >
+        <div class="jcarousel" >
+          <ul style="padding-top:50px;">
             <li>
-              <table width=""  border="0" cellspacing="10">
-                <tbody><tr>
-                  <td valign="top" width="450px">
-                    <div class="banner_title"><table><tbody><tr><td class="banner_td"><h1>图片、文档、视频管理解决方案</h1></td></tr></tbody></table></div>
-                    <div class="banner_text"><p> Superlib(超级图库管理软件)可用于管理图片、文档和视频文件，广泛应用于各行各业，包括政府部门、装饰设计、出版社、编辑部、报社、设计院、摄影、医院、电子、网站建设、研究机构、各单位党委宣传部等。</p>
-                    </div>
-                  </td>
-                  <td rowspan="2"  valign="top"><img src="images/pic01.png"></td>
-                </tr>
-                <tr>
-                  <td valign="top" width="620px"><a class="btn" href="products.php">产品介绍</a>
-                    &nbsp;
-                    <!-- <a class="btn" href="#download">下载试用</a> -->
-                  
-                  </td>
-                </tr>
-              </tbody></table>
+              <div class="float-left " style="width:48%">
+                <h1>图片、文档、视频管理解决方案</h1>
+                <p>Superlib(超级图库管理软件)可用于管理图片、文档和视频文件，广泛应用于各行各业，包括政府部门、装饰设计、出版社、编辑部、报社、设计院、摄影、医院、电子、网站建设、研究机构、各单位党委宣传部等。</p>
+                <p><a class="btn" href="products.php">产品介绍</a></p>
+              </div>
+              <div class="float-left"  style="width:50%;"><img src="images/pic01.png"></div>
+               <div class="clear"></div>
             </li>
 
             <li>
-              <table width="" border="0" cellspacing="10">
-                <tbody><tr>
-                  <td valign="top" width="450px">
-                    <div class="banner_title"><table><tbody><tr><td class="banner_td"><h1>轻松管理企事业单位的会议和活动照片</h1></td></tr></tbody></table></div>
-                    <div class="banner_text"><p>即使每天都增加数百张新照片，也能迅速查找到几年前某个会议上某位领导的相片。</p>
-                    </div>
-                  </td>
-                  <td rowspan="2"  valign="top"><img src="images/pic02.png" ></td>
-                </tr>
-                <tr>
-                  <td valign="top" width="620px">
-                  <a class="btn" href="success_stories.php">了解详情</a>
-                  </td>
-                </tr>
-              </tbody></table>
+              <div class="float-left " style="width:48%">
+                <h1>轻松管理企事业单位的会议和活动照片</h1>
+                <p>即使每天都增加数百张新照片，也能迅速查找到几年前某个会议上某位领导的相片。</p>
+                <p> <a class="btn" href="success_stories.php">了解详情</a></p>
+              </div>
+              <div class="float-left"  style="width:50%;"><img src="images/pic02.png"></div>
+               <div class="clear"></div>
             </li>
 
             <li>
-              <table width="" border="0" cellspacing="10">
-                <tbody><tr>
-                  <td valign="top" width="450px">
-                    <div class="banner_title"><table><tbody><tr><td class="banner_td"><h1>先试用，后购买</h1></td></tr></tbody></table></div>
-                    <div class="banner_text"><p>您可以在线试用，也可以把软件下载到您的电脑上安装试用。在试用时遇到问题，可随时联系我们公司的工程师解答问题。试用满意后，再签订合同，付款购买。</p>
-                    </div>
-                  </td>
-                  <td rowspan="2"  valign="top"><img src="images/pic03.png" ></td>
-                </tr>
-                <tr>
-                  <td valign="top" width="620px">
-                  <a class="btn" href="online_trial.php">在线试用</a>
+              <div class="float-left " style="width:48%">
+                <h1>先试用，后购买</h1>
+                <p><p>您可以在线试用，也可以把软件下载到您的电脑上安装试用。在试用时遇到问题，可随时联系我们公司的工程师解答问题。试用满意后，再签订合同，付款购买。</p>
+                <p> <a class="btn" href="online_trial.php">在线试用</a>
                   &nbsp;
-                  <a class="btn" href="downloads.php">下载试用</a>
-                  </td>
-                </tr>
-              </tbody></table>
-            </li>
+                  <a class="btn" href="downloads.php">下载试用</a></p>
+              </div>
+              <div class="float-left"  style="width:50%;"><img src="images/pic03.png"></div>
+               <div class="clear"></div>
+            </li>  
+             <div class="clear"></div>            
           </ul>
-          
+          <div class="clear"></div>
+         <!--  <a href="#" class="unslider-arrow prev">Previous slide</a>
+         <a href="#" class="unslider-arrow next">Next slide</a> -->
         </div>
-    
+      <div class="clear"></div>
     </div>
   </div>
   <div class="content">
