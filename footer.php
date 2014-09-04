@@ -54,9 +54,11 @@
 <div class="foot_b">京ICP备13003582 © 2006-2014 Lamma</div>
 </div>
 <div style="display:none;">
+<!--[if gte IE 7]>
 <script type="text/javascript">
   var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
   document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F915f3e50b053b55046438e431bad6bfa' type='text/javascript'%3E%3C/script%3E"));
   </script>
   <script src="http://hm.baidu.com/h.js?915f3e50b053b55046438e431bad6bfa" type="text/javascript"></script>
+<![endif]-->
   </div>

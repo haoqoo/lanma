@@ -29,8 +29,9 @@
   <div class="main">
     <div class="banner">
      <div class="banner_m" >          
-        <div class="jcarousel" >
-          <ul style="padding-top:50px;">
+        <div class="jcarousel" style="padding-top:50px;">
+         
+          <ul style="">
             <li>
               <div class="float-left " style="width:48%">
                 <h1>图片、文档、视频管理解决方案</h1>

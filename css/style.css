@@ -51,7 +51,7 @@ ul.ms_list01 li a { text-decoration: none;display: block; padding:0px 25px; heig
 /*首页内容样式*/
 .main2 { width:100%; margin:0; padding:0px;}
 .banner { width:100%; height:420px; background:url(../images/moover_shadow.png) no-repeat center top #5db0d0;}
-.banner_m { width:1160px; height:460px;  margin:0 auto; position:relative;}
+.banner_m { width:1160px; height:460px;  margin:0 auto;/*  position:relative; */}
 .pic { width:960px; height:330px; padding:65px 0; position:relative; margin:0 auto;}
 .back { width:60px; height:60px; float:left; position:absolute; top:190px; left:0px; z-index:999px;}
 .forward { width:60px; height:60px; float:right; position:absolute; top:190px; right:0px; z-index:999px;}
@@ -236,8 +236,9 @@ border: 0px;
 ul.expmenu,ul.expmenu li ul  {
 	list-style-type: none;
 }
+ul.expmenu li{zoom:1; vertical-align:middle;}
 ul.expmenu{width:145px;margin:0px; padding:0px;}
-ul.expmenu li div.header{ width:145px; height:42px; background:url(../images/nav_05.png) no-repeat left top; padding:0px; margin:0px;}
+ul.expmenu li div.header{ width:145px;  height:42px ; background:url(../images/nav_05.png) no-repeat left top; padding:0px; margin:0px;}
 ul.expmenu li ul li {width:145px; background:url(../images/sub_nav_03.png) repeat-y left top; color:#3fa2c7;}
 ul.expmenu li ul li.selected{ text-decoration:underline;}
 ul.expmenu div.header{
