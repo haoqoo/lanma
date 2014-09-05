@@ -28,9 +28,8 @@
   ?>
   <div class="main">
     <div class="banner">
-     <div class="banner_m" >          
-        <div class="jcarousel" style="padding-top:50px;">
-         
+     <div class="banner_m" style="">          
+        <div class="jcarousel" style="padding-top:50px !important;">     
           <ul style="">
             <li>
               <div class="float-left " style="width:48%">
@@ -60,7 +59,7 @@
                   &nbsp;
                   <a class="btn" href="downloads.php">下载试用</a></p>
               </div>
-              <div class="float-left"  style="width:50%;"><img src="images/pic03.png"></div>
+              <div class="float-left"  style="width:50%;"><img src="images/pic03.png" ></div>
                <div class="clear"></div>
             </li>  
              <div class="clear"></div>            

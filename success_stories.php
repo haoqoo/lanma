@@ -274,8 +274,9 @@
             <div class="srm_div">
             <div class="srm_t">浙江红黄蓝服饰股份有限公司</div>
             <div class="srm_m srm_p">
-              <div class="right"><a href="http://www.jiahui72.com" target="_blank"><img src="images/customer_logo_jiahui.jpg" alt="嘉汇设计装饰工程有限公司" border="0"></a></div>
-              <p><a href="http://www.jiahui72.com" target="_blank">嘉汇设计装饰工程有限公司</a>，源于香港。一直以来，公司坚持将专业的理念、到位的策划、丰富的运作经验以及认真负责的职业态度，融入到设计、施工的每个环节中，设计优质的蓝图，营做优质的工程项目，与客户共同成就理想。</p>               <p>使用SuperLib软件网络版。</p>
+              <div class="right"><a href="http://www.honghuanglan.com" target="_blank"><img src="images/customer_logo_ryb.jpg" alt="浙江红黄蓝服饰股份有限公司" border="0"></a></div>
+              <p><a href="http://www.honghuanglan.com" target="_blank">浙江红黄蓝服饰股份有限公司</a>是中国童装行业龙头企业红黄蓝集团的控股拟上市企业，旗下品牌“红黄蓝童装”先后荣获“中国名牌产品”、“中国驰名商标”、“中国十大童装品牌”、“国家免检产品”等荣誉，是2008年北京奥运会童装特许生产商，多次参与国家及行业标准制定，享有较高的品牌知名度和美誉度。</p>
+              <p>使用SuperLib软件网络版。</p>
               <div class="clear"></div>
             </div>
             <br>
