@@ -19,7 +19,29 @@
     .float-left{
       float: left;
     }
+
   </style>
+    <!--[if lt IE 9]>
+    <style type="text/css">
+      .jcarousel a.btn{
+        border:2px #fff solid;
+      }
+      .jcarousel{
+        color: #fff;
+      }
+      .jcarousel .dots{
+        
+      }
+      .jcarousel .dots li{
+       padding:2px 1px 2px 1px;
+
+       background: #5db0d0;
+      }
+
+
+     
+     </style>
+    <![endif]-->
 </head>
 
 <body>
@@ -32,10 +54,10 @@
         <div class="jcarousel" style="padding-top:50px !important;">     
           <ul style="">
             <li>
-              <div class="float-left " style="width:48%">
+              <div class="float-left " style="width:48%;">
                 <h1>图片、文档、视频管理解决方案</h1>
                 <p>Superlib(超级图库管理软件)可用于管理图片、文档和视频文件，广泛应用于各行各业，包括政府部门、装饰设计、出版社、编辑部、报社、设计院、摄影、医院、电子、网站建设、研究机构、各单位党委宣传部等。</p>
-                <p><a class="btn" href="products.php">产品介绍</a></p>
+                <p><a class="btn" href="products.php" style="">产品介绍</a></p>
               </div>
               <div class="float-left"  style="width:50%;"><img src="images/pic01.png"></div>
                <div class="clear"></div>

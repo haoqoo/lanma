@@ -68,7 +68,7 @@
     left: 0;
     right: 0;
     bottom: 10px;
-    width: 100%;
+     width: 99%; 
 }
 .jcarousel .dots li {
     display: inline-block;
