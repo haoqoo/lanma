@@ -10,7 +10,7 @@ include("meta.php"); ?>
 
 <body>
 <?php include 'header.php'; ?>
-<div class="subbanner"><img src="images/banner_sup.png" width="1200" height="225" /></div>
+<div class="subbanner"><div class="banner_sup"></div></div>
 <div class="main">  
   <div class="content"> 
     <div class="here"><a href="index.php">首页</a> >> 服务与支持</div>   

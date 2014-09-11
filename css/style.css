@@ -302,3 +302,52 @@ img {
 a.btn:active,a.btn:visited,a.btn:link{
 	color: #fff;
 }
+
+.banner_pro{
+	 background: url(../images/banner_pro.png) no-repeat top center ;
+	 height:220px; 
+}
+.banner_on{
+	 background: url(../images/banner_on.png) no-repeat top center;
+	 height:220px; 
+}
+.banner_pur{
+	 background: url(../images/banner_pur.png) no-repeat top center;
+	 height:220px; 
+}
+.banner_ab{
+	 background: url(../images/banner_ab.png) no-repeat top center;
+	 height:220px; 
+}
+.banner_sol{
+	 background: url(../images/banner_sol.png) no-repeat top center;
+	 height:220px;
+}
+.banner_pro{
+	 background: url(../images/banner_pro.png) no-repeat top center;
+	 height:220px;
+}
+.banner_doc{
+	 background: url(../images/banner_doc.png) no-repeat top center;
+	 height:220px;
+}
+.banner_dow{
+	 background: url(../images/banner_dow.png) no-repeat top center;
+	 height:220px;
+}
+.banner_news{
+	 background: url(../images/banner_news.png) no-repeat top center;
+	 height:220px;
+}
+.banner_email{
+	background: url(../images/banner_email.png) no-repeat top center;
+	height:220px;
+}
+.banner_case{
+	background: url(../images/banner_case.png) no-repeat top center;
+	height:220px;
+}
+.banner_sup{
+	background: url(../images/banner_sup.png) no-repeat top center;
+	height:220px;
+}

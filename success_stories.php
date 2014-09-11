@@ -13,7 +13,7 @@
   <?php 
   require('header.php');
   ?>
-  <div class="subbanner"><img src="images/banner_case.png" width="1200" height="225" /></div>
+  <div class="subbanner"><div class="banner_case"></div></div>
   <div class="main">  
     <div class="content">    
       <div class="here">首页 >> 客户案例</div>

@@ -11,7 +11,7 @@ include('meta.php'); ?>
 
 <body>
 <?php include('header.php'); ?>
-<div class="subbanner"><img src="images/banner_on.png" width="1200" height="225" /></div>
+<div class="subbanner"><div class="banner_on"></div></div>
 <div class="main">  
   <div class="content"> 
     <div class="here"><a href="index">首页</a> >> 在线试用</div>   

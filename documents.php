@@ -11,7 +11,7 @@ include("meta.php");
 
 <body>
 <?php include 'header.php'; ?>
-<div class="subbanner"><img src="images/banner_doc.png" width="1200" height="225" /></div>
+<div class="subbanner"><div class="banner_doc"></div></div>
 <div class="main">  
   <div class="content"> 
     <div class="here"><a href="index.php">首页</a> >> 相关文档</div>   

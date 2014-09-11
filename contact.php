@@ -13,7 +13,7 @@
 <?php
   require ('header.php');
   ?>
-<div class="subbanner"><img src="images/banner_ab.png" width="1200" height="225" /></div>
+<div class="subbanner"><div class="banner_ab"></div></div>
 <div class="main">  
   <div class="content"> 
     <div class="here"><a href="index.php">首页</a> >> 联系我们</div>   

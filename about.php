@@ -14,7 +14,7 @@
   require ('header.php');
   ?>
 
-<div class="subbanner"><img src="images/banner_ab.png" width="1200" height="225" /></div>
+<div class="subbanner"><div class="banner_ab"></div></div>
 
 
 <div class="main">  

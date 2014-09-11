@@ -13,6 +13,6 @@
 <!--[if IE 6]>   
 <script type="text/javascript" src="js/iepng.js" ></script>   
 <script type="text/javascript">
-EvPNG.fix('.wrap, .wrap2, .navigation,.news_show_bg');   
+EvPNG.fix('*');   
 </script>   
 <![endif]-->

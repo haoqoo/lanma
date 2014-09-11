@@ -11,7 +11,7 @@
 <body>
   <?php include 'header.php'; ?>
 
-  <div class="subbanner"><img src="images/banner_pro.png" width="1200" height="225" /></div>
+  <div class="subbanner"><div class="banner_pro"></div></div>
 
   <div class="main">  
     <div class="content">    
