@@ -79,7 +79,7 @@
     line-height: 10px;
     margin: 0 4px;
     text-indent: -999em;
-    *text-indent: 0;
+    *text-indent: -5em;
     border: 2px solid #fff;
     border-radius: 6px;
     cursor: pointer;
